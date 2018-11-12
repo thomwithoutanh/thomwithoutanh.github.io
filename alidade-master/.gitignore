@@ -1,0 +1,6 @@
+/node_modules
+/config/database.php
+/config/local.php
+/assets
+/public/uploads
+/craft
