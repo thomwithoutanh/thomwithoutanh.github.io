@@ -3,10 +3,8 @@ title: Projects
 author: Tom Walker
 layout: page
 permalink: /projects/
-menu: true
+menu: false
 order: 5
 ---
 
 ## [COBECORE](http://cobecore.org)
-
-
