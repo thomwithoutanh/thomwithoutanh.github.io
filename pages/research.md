@@ -43,3 +43,10 @@ order: 2
 <p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf">A Movements Perspective on Transparency and accountability</a>&quot;, Transparency and Accountability Initiative, 2015.</p>
 
 <a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf"><img src="/assets/img/movements-transparency-accountability.png" alt="movements-transparency-accountability" height="300" width="220"></a>
+
+<p style="padding-left: 30px;"><a href="https://researchfindings.tech">A lot of civil society organisations have a secret. Their tech projects are failing. What does the research tell us?</a>&quot;, Research synthesis for Making All Voices Count, 2017.</p>
+
+<a href="https://researchfindings.tech"><img src="/assets/img/Microsite_graphic-600x379.png" alt="mavc" height="300" width="500"></a>
+
+
+
