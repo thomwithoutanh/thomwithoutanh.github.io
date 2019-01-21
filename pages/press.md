@@ -21,7 +21,7 @@ Presented research at 10 different public events, including:
 
 <li><a href="https://www.eventbrite.com/e/humanitarian-futures-for-messaging-apps-public-launch-of-report-tickets-30520257913">Humanitarian Futures for Messaging Apps</a>International Committee of the Red Cross (Geneva), January 2017 </li>
 
-<li><a href="https://18iacc.sched.com/event/FzmO/how-to-counter-the-backlash-against-transparency-in-the-age-of-fake-news-data-breaches">How to Counter the Backlash Against Transparency in the Age of Fake News & Data Breaches></a> International Anti-Corruption Conference, Copenhagen, September 2018</li>
+<li><a href="https://18iacc.sched.com/event/FzmO/how-to-counter-the-backlash-against-transparency-in-the-age-of-fake-news-data-breaches">How to Counter the Backlash Against Transparency in the Age of Fake News & Data Breaches</a> International Anti-Corruption Conference, Copenhagen, September 2018</li>
 
 <hr><br><p>Quoted and cited in <a href="https://www.thenews.com.pk/latest/183032-Messaging-Apps-an-untapped-humanitarian-resource">           international</a> <a href="https://amp.theguardian.com/global-development-professionals-network/2017/jun/13/secret-aid-worker-we-dont-take-data-protection-of-vulnerable-people-seriously"> media </a></p>. 
 
