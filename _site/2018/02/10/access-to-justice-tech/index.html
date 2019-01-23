@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en"><!--
+ __  __                __                                     __
+/\ \/\ \              /\ \             __                    /\ \
+\ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
+ \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
+  \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
+   \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
+    \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
+                /\___/                \ \____/
+                \/__/                  \/___/
+
+Powered by Hydejack v7.5.1 <https://qwtel.com/hydejack/>
+-->
+
+
+
+
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+  
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>How small data can improve access to justice for the poor | Tom Walker</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="How small data can improve access to justice for the poor" />
+<meta name="author" content="Tom Walker" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="This post originally appeared on Open Society Foundations’ blog, Voices. The Engine Room is a grantee of the Open Society Foundations." />
+<meta property="og:description" content="This post originally appeared on Open Society Foundations’ blog, Voices. The Engine Room is a grantee of the Open Society Foundations." />
+<link rel="canonical" href="http://localhost:4000/2018/02/10/access-to-justice-tech/" />
+<meta property="og:url" content="http://localhost:4000/2018/02/10/access-to-justice-tech/" />
+<meta property="og:site_name" content="Tom Walker" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-02-10T00:00:00+00:00" />
+<script type="application/ld+json">
+{"description":"This post originally appeared on Open Society Foundations’ blog, Voices. The Engine Room is a grantee of the Open Society Foundations.","author":{"@type":"Person","name":"Tom Walker"},"@type":"BlogPosting","url":"http://localhost:4000/2018/02/10/access-to-justice-tech/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon.png"},"name":"Tom Walker"},"headline":"How small data can improve access to justice for the poor","dateModified":"2018-02-10T00:00:00+00:00","datePublished":"2018-02-10T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2018/02/10/access-to-justice-tech/"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+  
+    <meta name="keywords" content="">
+  
+
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Tom Walker">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<meta name="application-name" content="Tom Walker">
+<meta name="msapplication-config" content="/assets/ieconfig.xml">
+
+
+<meta name="theme-color" content="#4fb1ba">
+
+
+<meta name="generator" content="Hydejack v7.5.1">
+
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Tom Walker" />
+
+
+
+<link rel="alternate" href="http://localhost:4000/2018/02/10/access-to-justice-tech/" hreflang="en">
+
+<link rel="shortcut icon" href="/assets/icons/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/icons/icon.png">
+
+<link rel="manifest" href="/assets/manifest.json">
+
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+
+
+
+
+
+
+
+<link id="_katexJS"  rel="dns-prefetch" href="/assets/bower_components/katex/dist/katex.min.js">
+<link id="_katexCSS" rel="dns-prefetch" href="/assets/bower_components/katex/dist/katex.min.css">
+
+<script>
+  function stdOnEnd(n,e){n.onload=function(){this.onerror=this.onload=null,e(null,n)},n.onerror=function(){this.onerror=this.onload=null,e(new Error("Failed to load "+this.src),n)}}function ieOnEnd(n,e){n.onreadystatechange=function(){"complete"!=this.readyState&&"loaded"!=this.readyState||(this.onreadystatechange=null,e(null,n))}}window.setRelStylesheet=function(n){function e(){this.rel="stylesheet"}var o=document.getElementById(n);o.addEventListener?o.addEventListener("load",e,!1):o.onload=e},window._loaded=!1,window.loadJSDeferred=function(n,e){function o(){window._loaded=!0;var o=document.createElement("script");o.src=n,e&&(("onload"in o?stdOnEnd:ieOnEnd)(o,e),o.onload||stdOnEnd(o,e));var t=document.scripts[0];t.parentNode.insertBefore(o,t)}window._loaded?o():window.addEventListener?window.addEventListener("load",o,!1):window.onload=o};
+!function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);
+!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+
+  window._noPushState = false;
+  window._noDrawer = false;
+</script>
+
+<!--[if gt IE 8]><!---->
+
+
+<script>
+  WebFontConfig = {
+    
+    google: {
+      families: ['Roboto+Slab:700','Noto+Sans:400,400i,700,700i']
+    },
+    
+
+    custom: {
+      families: ['icomoon'],
+      urls: ['/assets/icomoon/style.css']
+    }
+  };
+  (function(d) {
+    var wf = d.createElement('script'), s = d.scripts[0];
+    wf.src = "/assets/bower_components/webfontloader/webfontloader.js";
+    s.parentNode.insertBefore(wf, s);
+  }(document));
+</script>
+<!--<![endif]-->
+
+<noscript>
+  
+  
+
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:700%7CNoto+Sans:400,400i,700,700i">
+    <style>
+      html { font-family: Noto Sans, Helvetica, Arial, sans-serif }
+      h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .heading { font-family: Roboto Slab, Helvetica, Arial, sans-serif }
+    </style>
+  
+
+  <link rel="stylesheet" href="/assets/icomoon/style.css">
+</noscript>
+
+<!--[if gt IE 8]><!---->
+
+
+
+  <link rel="stylesheet" href="/assets/css/hydejack-7.5.1.css">
+
+
+
+<style id="_pageStyle">
+
+.content a:not(.btn){color:#4fb1ba;border-color:rgba(79,177,186,0.2)}.content a:not(.btn):hover{border-color:#4fb1ba}:focus{outline-color:#4fb1ba}.btn-primary{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:focus,.btn-primary.focus{box-shadow:0 0 0 3px rgba(79,177,186,0.5)}.btn-primary:hover,.btn-primary.hover{color:#fff;background-color:#409ba3;border-color:#409ba3}.btn-primary:disabled,.btn-primary.disabled{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:active,.btn-primary.active{color:#fff;background-color:#409ba3;border-color:#409ba3}::selection{color:#fff;background:#4fb1ba}::-moz-selection{color:#fff;background:#4fb1ba}
+
+</style>
+
+<!--<![endif]-->
+
+
+
+
+</head>
+
+<body>
+  <div class="navbar fixed-top">
+  <div class="content">
+    <div class="nav-btn-bar">
+      <span class="sr-only">Jump to:</span>
+      <a id="_menu" class="nav-btn no-hover" href="#_navigation">
+        <span class="sr-only">Navigation</span>
+        <span class="icon-menu"></span>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<hy-push-state>
+  <main
+    id="_main"
+    class="content fade-in layout-post"
+    role="main"
+    data-color="#4fb1ba"
+    data-theme-color=""
+    
+      data-image="/assets/img/bg_2.jpg"
+      data-overlay
+    
+    >
+    
+
+
+<article id="post-2018-02-10-technology-access-to-justice" class="page post" role="article">
+  <header>
+    <h1 class="post-title">
+      
+        How small data can improve access to justice for the poor
+      
+    </h1>
+
+    <p class="post-date heading">
+      
+      <time datetime="2018-02-10T00:00:00+00:00">10 Feb 2018</time>
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+in <span>Communications</span>
+
+      
+
+
+
+
+
+
+
+
+
+on <span>Technology, research</span>
+
+    </p>
+
+    
+
+
+
+  <div class="hr pb0"></div>
+
+
+  </header>
+
+  
+    <p><em>This post originally appeared on <a href="https://www.opensocietyfoundations.org/voices/how-small-data-can-improve-access-justice-poor">Open Society Foundations’ blog, Voices</a>. The Engine Room is a grantee of the Open Society Foundations.</em></p>
+
+<p>A tenant becomes homeless because she or he doesn’t understand how to challenge a landlord’s eviction order. A farmer lacks the ability to prove the legal ownership of traditional lands. A young woman can’t get access to state sponsored medical care because she lacks the right documentation.</p>
+
+<p>These are all examples of how barriers to justice are both a cause and a consequence of poverty and inequality. Without meaningful access to justice, people are more likely to face problems with health, employment, housing, and education.</p>
+
+<p>These issues are at the heart of efforts by the Open Society Foundations and other partners to push the world’s governments to deliver on the promise made in the <a href="https://www.un.org/sustainabledevelopment/peace-justice/">Sustainable Development Goals</a> to deliver “equal access to justice for all.” But what does that look like? How do we measure it? And how do we know what works, and what doesn’t?</p>
+
+<p>Thanks to the more than 50 large-scale legal needs surveys which have been conducted in over 30 countries, we now know more than ever about the prevalence of various legal problems, global inequalities in people’s experience of the law, common barriers to justice, and the social and economic costs of ineffective access to justice. Most recently, the World Justice Project’s 2018 Global Insights on Access to Justice provided comparable data on legal needs and access to justice on a global scale. Identifying the need is one thing. But how do we create and sustain effective access to justice solutions?</p>
+
+<p>For one thing, we need more and better “small data” from within justice systems. Small data is drawn from the experience of the user and offers an accessible way to understand and address specific problems. It includes, for example, the individual case data gathered by organizations serving poor and marginalized communities, which draws on the problems faced by real people.</p>
+
+<p>When collected and analyzed, this data can help identify the problems that matter to a community. It can shape the best ways to address those problems, and it can help us assess the actual impact of a particular solution. Small data can also give us the information to persuade governments and private funders to invest in the provision of community-based justice systems by demonstrating how a low-cost solution can save money—and, sometimes, prevent a costly crisis.</p>
+
+<p>While it does not replace large-scale legal needs studies, collecting this data is less expensive because it is generated through the day-to-day provision of legal services. It also adds an important complementary picture; it reflects experiences navigating real-time legal processes, whereas surveys often rely on people’s recall or perceptions.</p>
+
+<p>To explore this potential, the Open Society Justice Initiative and several of the Open Society national foundations teamed up with <a href="https://www.theengineroom.org/">The Engine Room</a>, an international organization that helps nonprofits make the most of data and technology, to research how organizations collect, manage, analyze, and share data on community-based justice provisions.</p>
+
+<p>We also explored the role that case management technology plays in helping organizations to improve the quality of their advocacy and provide services to larger numbers of people in more effective and efficient ways. Our <a href="http://www.theengineroom.org/wp-content/uploads/2018/04/Technology-in-Case-Management-for-Legal-Empowerment-The-Engine-Room.pdf">report explores the use and impact of technology</a> in case management in Indonesia, Moldova, Mongolia, Sierra Leone, and South Africa, informed by interviews with a range of civil society organizations, technologists, and government representatives.</p>
+
+<p>Here’s what we learned:</p>
+
+<ul>
+  <li><strong>Frontline case data can help to identify, in a compelling way, problems that need fixing based on local priorities</strong>. In 2012 and 2013, for example, the South African organization Black Sash used case data from local <a href="https://www.opensocietyfoundations.org/sites/default/files/community-legal-southafrica-20160920.pdf">Community Advice Offices</a> to discover that money was systematically—and inappropriately—deducated from people’s government benefit payments. Using data from more than 120 cases, from across three provinces, Black Sash ran a campaign that successfully ended the practice.</li>
+  <li><strong>Collecting more data on legal aid and community-based justice can demonstrate the scale and impact of access to justice interventions</strong>. For example, the <a href="https://www.opensocietyfoundations.org/sites/default/files/community-legal-moldova-20160920.pdf">National Legal Aid Council in Moldova</a> recently introduced a system that will collect data on paralegals’ activities nationwide, helping to build the case for sustainable, long-term support. It can also generate insights into complex issues by sharing data between organizations, as demonstrated by those organizations in the United Kingdom who collaborated to investigate <a href="http://www.datakind.org/projects/sharing-data-to-learn-about-homelessness">common advice needs among homeless people</a>.</li>
+  <li><strong>Case data can demonstrate that community-based justice reduces public spending,</strong> <a href="https://www.accesstojusticeactiongroup.co.uk/wp-content/uploads/2011/07/towards_a_business_case_for_legal_aid.pdf">by limiting the use of state resources</a>. For example, a 2007–2010 analysis of 338 cases in Indonesia showed that paralegals in Indonesia often found alternative solutions that <a href="https://namati.org/resources/paralegalism-and-legal-aid-in-indonesia-2011/">minimized the need to involve police</a>, mediating between conflicting parties in 54 percent of cases reviewed. The Open Society Foundations are currently working with organizations in South Africa and Sierra Leone to conduct further research into the economic benefits to government, and to make the case for expanded justice services.</li>
+  <li><strong>Well-designed technology systems for collecting case data can make legal empowerment work more efficiently</strong>, reducing costs and time spent on administration. By replacing manual processes with a new case management system, <a href="http://hotdocs.com/solutions/client-stories/legal-aid-south-africa">Legal Aid South Africa reduced the number of managers required to process cases from 64 to five</a>. Indonesia’s Ministry of Law and Human Rights has said that moving to an online system has doubled the amount of money successfully reimbursed to independent legal aid organizations nationwide.</li>
+  <li><strong>Collecting data effectively and regularly can also make organizations more responsive</strong>. Organizations we spoke to in Sierra Leone were starting to use case data both to identify paralegals’ training needs, and to shed light on questions such as the proportion of people who access local courts rather than the formal justice system.</li>
+</ul>
+
+<p>Our research suggests that harnessing the benefits of case management systems takes time and resources; careful attention to context; and thoughtful, sustained engagement on the needs of users. But it also highlights how “small data” can have a big impact. By bringing together experiences from a wide range of national contexts to identify useful strategies and approaches, the Open Society Foundations are aiming to contribute to this process.</p>
+
+  
+</article>
+
+
+<hr class="dingbat related" />
+
+
+
+
+  
+     
+
+
+  <aside class="about related mt4 mb4" role="complementary">
+    
+    
+
+<div class="author mt4">
+  
+
+  
+    
+  
+
+  
+
+  
+  <img
+    src="/assets/img/tomw.jpg"
+    class="avatar"
+    alt="Tom Walker"
+    srcset="/assets/img/tomw.jpg 1x,/assets/img/tomw.jpg 2x"
+    
+    
+  />
+
+
+  
+
+  
+  
+  <h2  class="page-title hr">
+    About
+  </h2>
+
+  <p>I’m a researcher and project manager.</p>
+
+
+  <div class="sidebar-social">
+    <span class="sr-only">Social:</span>
+<ul>
+  
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://twitter.com/thomwithoutanh" title="Twitter" class="no-mark-external">
+    <span class="icon-twitter"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://github.com/thomwithoutanh" title="GitHub" class="no-mark-external">
+    <span class="icon-github"></span>
+    <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:<hello@tomwalker.fyi>" title="Email" class="no-mark-external">
+    <span class="icon-mail"></span>
+    <span class="sr-only">Email</span>
+  </a>
+</li>
+
+  
+</ul>
+
+  </div>
+</div>
+
+  </aside>
+
+
+  
+
+  
+  
+
+  
+    
+
+
+
+
+<aside class="related mb4" role="complementary">
+  <h2 class="hr">Related Posts</h2>
+
+  <ul class="related-posts">
+    
+      
+
+
+<li>
+  <a href="/2017/10/24/xxx/" class="h4 flip-title">
+    <span>How can we make research used and useful?</span>
+  </a>
+  <time class="heading faded fine" datetime="2017-11-22T00:00:00+00:00">22 Nov 2017</time>
+</li>
+
+    
+  </ul>
+</aside>
+
+
+  
+
+
+    
+
+
+    <footer role="contentinfo">
+  <hr/>
+  
+    <p><small class="copyright">Original content on this website is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Fork it on <a href="https://github.com/thomwithoutanh/thomwithoutanh.github.io">Github</a>.
+</small></p>
+  
+  
+  <p><small>Powered by <a class="external" href="https://qwtel.com/hydejack/">Hydejack</a> v<span id="_version">7.5.1</span></small></p>
+  <hr class="sr-only"/>
+</footer>
+  
+
+  </main>
+  <hy-drawer>
+  <header id="_sidebar" class="sidebar" role="banner">
+    
+    <div class="sidebar-bg sidebar-overlay" style="background-color:#4fb1ba;background-image:url(/assets/img/bg_2.jpg)"></div>
+
+    <div class="sidebar-sticky">
+      <div class="sidebar-about">
+        <h2 class="h1"><a href="/">Tom Walker</a></h2>
+        
+        
+          <p class="">
+            Researcher and writer
+
+          </p>
+        
+      </div>
+
+      <nav class="sidebar-nav heading" role="navigation">
+        <span class="sr-only">Navigation:</span>
+<ul>
+  
+  
+  
+  
+    
+      <li>
+        <a
+          id="_navigation"
+          href="/blog/"
+          class="sidebar-nav-item"
+          
+          >
+          Blog
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/research/"
+          class="sidebar-nav-item"
+          
+          >
+          Research
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/guides/"
+          class="sidebar-nav-item"
+          
+          >
+          Practical guides
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/Talks/"
+          class="sidebar-nav-item"
+          
+          >
+          Talks and Media
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/about/"
+          class="sidebar-nav-item"
+          
+          >
+          About
+        </a>
+      </li>
+    
+  
+</ul>
+
+      </nav>
+
+      
+
+      <div class="sidebar-social">
+        <span class="sr-only">Social:</span>
+<ul>
+  
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://twitter.com/thomwithoutanh" title="Twitter" class="no-mark-external">
+    <span class="icon-twitter"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://github.com/thomwithoutanh" title="GitHub" class="no-mark-external">
+    <span class="icon-github"></span>
+    <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:<hello@tomwalker.fyi>" title="Email" class="no-mark-external">
+    <span class="icon-mail"></span>
+    <span class="sr-only">Email</span>
+  </a>
+</li>
+
+  
+</ul>
+
+      </div>
+    </div>
+  </header>
+</hy-drawer>
+
+</hy-push-state>
+
+
+  
+
+  <!--[if gt IE 9]><!---->
+  
+  <script>loadJSDeferred('/assets/js/hydejack-7.5.1.js');</script>
+  
+  <!--<![endif]-->
+
+
+
+  
+<hr class="sr-only"/>
+<h2 class="sr-only">Templates (for web app):</h2>
+
+<template id="_animation-template">
+  <div class="animation-main fixed-top">
+    <div class="content">
+      <div class="page"></div>
+    </div>
+  </div>
+</template>
+
+<template id="_loading-template">
+  <div class="loading">
+    <span class="sr-only">Loading…</span>
+    <span class="icon-cog"></span>
+  </div>
+</template>
+
+<template id="_error-template">
+  <div class="page">
+    <h1 class="page-title">Error</h1>
+    
+    
+    <p class="lead">
+      Sorry, an error occurred while loading <a class="this-link" href=""></a>.
+
+    </p>
+  </div>
+</template>
+
+<template id="_back-template">
+  <a id="_back" class="back nav-btn no-hover">
+    <span class="sr-only">Back</span>
+    <span class="icon-arrow-left2"></span>
+  </a>
+</template>
+
+<template id="_permalink-template">
+  <a href="#" class="permalink">
+    <span class="sr-only">Permalink</span>
+    <span class="icon-link"></span>
+  </a>
+</template>
+
+
+
+</body>
+</html>

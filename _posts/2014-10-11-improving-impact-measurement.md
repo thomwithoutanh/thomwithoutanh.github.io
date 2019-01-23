@@ -1,5 +1,5 @@
 ---
-title: Improving how we measure impact: a round-up of projects and approaches
+title: Improving how we measure impact - a round-up of projects and approaches
 teaser: "xxx"
 author: Tom Walker
 layout: post
