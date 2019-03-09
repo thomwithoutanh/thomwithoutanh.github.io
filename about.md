@@ -5,7 +5,9 @@ menu: true
 order: 7
 ---
 
-I'm interested in investigations, helping fit technology and data into advocacy organisations' work and communicating data effectively. I've worked in media, think tanks, political risk analysis, NGOs and with a wide range of advocacy organisations. 
+I'm interested in investigations, helping fit technology and data into advocacy organisations' work and communicating data effectively. I've worked in media, think tanks, political risk analysis, NGOs and with a wide range of advocacy organisations.
+
+/
 
 <br>
 <blockquote>

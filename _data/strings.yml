@@ -43,7 +43,7 @@ cookies_banner:
 not_found:
   title:               '404: Page Not Found'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+    Sorry, someone (almost certainly Tom) messed up and this page isn't working.
     <!--home_link--> to try finding it again.
   home_link:           Head back home
 
