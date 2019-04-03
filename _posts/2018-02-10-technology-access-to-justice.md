@@ -5,9 +5,7 @@ author: Tom Walker
 layout: post
 permalink: /2018/02/10/access-to-justice-tech/
 categories:
-  - communications
 tags:
-  - technology, research
 ---
 
 _This post originally appeared on [Open Society Foundations’ blog, Voices](https://www.opensocietyfoundations.org/voices/how-small-data-can-improve-access-justice-poor). The Engine Room is a grantee of the Open Society Foundations._

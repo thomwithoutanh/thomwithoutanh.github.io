@@ -11,6 +11,10 @@ order: 2
 
 <p style="padding-left: 30px;"><a href="https://www.theengineroom.org/tech-and-legal-empowerment-around-the-world/" target="_blank"><img src="/assets/img/tech-legal-empowerment.png" alt="legal-empowerment-report" height="306" width="550"></a><strong><small>(2.5MB <a href="/assets/publications/Tech-Legal-Empowerment.pdf" target="_blank">PDF</a>)</small></strong></p>
 
+<p style="padding-left: 30px;"><a href="http://www.bteam.org/announcements/evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries/" target="_blank">Privacy or Public Interest? Making the Case for Public Information on Company Ownership, The B Team & OpenOwnership 2019. <em>[Project Lead]</em></p>
+
+<p style="padding-left: 30px;"><a href="http://www.bteam.org/announcements/evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries/" target="_blank"><img src="/assets/img/privacy-beneficial-ownership.png" alt="privacy-beneficial-ownership" height="300" width="220"></a><strong><small>(1MB <a href="/assets/publications/privacy-beneficial-ownership.pdf" target="_blank">PDF</a>)</small></strong></p>
+
 <p style="padding-left: 30px;"><a href="https://engn.it/appsreport" target="_blank">Humanitarian Futures for Messaging Apps: Understanding the opportunities and risks</a>&quot;, International Committee of the Red Cross (ICRC), 2017. <em>[Lead researcher]</em></p>
 
 <p style="padding-left: 30px;"><a href="https://engn.it/appsreport" target="_blank"><img src="/assets/img/messaging-apps-report.png" alt="messaging-apps-report" height="300" width="220"></a><strong><small>(3.5MB <a href="/assets/publications/messaging-apps.pdf" target="_blank">PDF</a>)</small></strong></p>
@@ -26,6 +30,11 @@ order: 2
 <p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf">A Movements Perspective on Transparency and accountability</a>&quot;, Transparency and Accountability Initiative, 2015.</p>
 
 <p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf"><img src="/assets/img/movements-transparency-accountability.png" alt="movements-transparency-accountability" height="300" width="220"></a></p>
+
+<p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf">Translating Oxfam's responsible data policy into practice</a>&quot;, Oxfam, 2017.</p>
+
+<p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf"><img src="/assets/img/oxfam.png" alt="oxfam" height="300" width="220"></a></p>
+
 
 <p style="padding-left: 30px;"><a href="https://www.theengineroom.org/wp-content/uploads/Responsible-Data-Forum-Data-in-the-donor-community.pdf" target="_blank>">Responsible data in the donor community</a>&quot;, Responsible Data Forum, 2015. <em>[Lead researcher]</em></p>
 

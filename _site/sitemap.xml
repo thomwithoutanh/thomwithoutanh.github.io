@@ -66,6 +66,9 @@
 <loc>http://localhost:4000/research_statement/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/communications/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/pages/publications/</loc>
 </url>
 <url>

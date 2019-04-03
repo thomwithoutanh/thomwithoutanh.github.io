@@ -25,8 +25,12 @@ Here are some of my talks and presentations for practitioners, academics and the
 
 <hr><br><p>Quoted and cited in <a href="https://www.thenews.com.pk/latest/183032-Messaging-Apps-an-untapped-humanitarian-resource">           international</a> <a href="https://amp.theguardian.com/global-development-professionals-network/2017/jun/13/secret-aid-worker-we-dont-take-data-protection-of-vulnerable-people-seriously"> media </a></p>. 
 
+<img src="/assets/img/greek-civil-society.png" alt="guardian screenshot" height="306" width="550">
+
 <p>Producer on <u><a href="https://soundcloud.com/engnroom">transparency and accountability-focused podcast</a> </u> guest interviewee on the <u> <a href="https://recompilermag.com/2017/05/09/episode-35-interview-with-zara-rahman-and-tom-walker/">Recompiler podcast </a></u></p>
 <p>
+
+<img src="/assets/img/podcast.png" alt="podcast screenshot" height="306" width="550">
 <hr>
 Presented in webinars for Namati, Open Society Foundations, Funders Initiative on Civil Society.
 </p>
