@@ -31,9 +31,9 @@ order: 2
 
 <p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf"><img src="/assets/img/movements-transparency-accountability.png" alt="movements-transparency-accountability" height="300" width="220"></a></p>
 
-<p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf">Translating Oxfam's responsible data policy into practice</a>&quot;, Oxfam, 2017.</p>
+<p style="padding-left: 30px;"><a href="https://policy-practice.oxfam.org.uk/publications/responsible-data-at-oxfam-translating-oxfams-responsible-data-policy-into-pract-620257">Translating Oxfam's responsible data policy into practice</a>&quot;, Oxfam, 2017.</p>
 
-<p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf"><img src="/assets/img/oxfam.png" alt="oxfam" height="300" width="220"></a></p>
+<p style="padding-left: 30px;"><a href="https://policy-practice.oxfam.org.uk/publications/responsible-data-at-oxfam-translating-oxfams-responsible-data-policy-into-pract-620257"><img src="/assets/img/Oxfam.png" alt="oxfam" height="300" width="220"></a></p>
 
 
 <p style="padding-left: 30px;"><a href="https://www.theengineroom.org/wp-content/uploads/Responsible-Data-Forum-Data-in-the-donor-community.pdf" target="_blank>">Responsible data in the donor community</a>&quot;, Responsible Data Forum, 2015. <em>[Lead researcher]</em></p>
