@@ -23,16 +23,20 @@ Here are some of my talks and presentations for practitioners, academics and the
 
 <li><a href="https://www.mysociety.org/files/2015/09/Agenda-2016.pdf">Six ways to pick better transparency and accountability tech</a>, The Impacts of Civic Tech (TICTec), Barcelona, April 2016</li> 
 
+<h2>Media</h2>
+
+<h3>Journalism</h3>
+
 <hr><br><p>Quoted and cited in <a href="https://www.thenews.com.pk/latest/183032-Messaging-Apps-an-untapped-humanitarian-resource">           international</a> <a href="https://amp.theguardian.com/global-development-professionals-network/2017/jun/13/secret-aid-worker-we-dont-take-data-protection-of-vulnerable-people-seriously"> media </a></p>. 
 
-<img src="/assets/img/greek-civil-society.png" alt="guardian screenshot" height="306" width="550">
+<h3>Podcasts</h3>
 
-<p>Producer on <u><a href="https://soundcloud.com/engnroom">transparency and accountability-focused podcast</a> </u> guest interviewee on the <u> <a href="https://recompilermag.com/2017/05/09/episode-35-interview-with-zara-rahman-and-tom-walker/">Recompiler podcast </a></u></p>
+<p>Producer of <a href="https://soundcloud.com/engnroom">transparency and accountability-focused podcast</a>, interviewing four technology experts.</p>
+
+<p>Interviewee on the <a href="https://recompilermag.com/2017/05/09/episode-35-interview-with-zara-rahman-and-tom-walker/">Recompiler podcast </a></p>
 <p>
 
-<img src="/assets/img/podcast.png" alt="podcast screenshot" height="306" width="550">
-<hr>
-Presented in webinars for Namati, Open Society Foundations, Funders Initiative on Civil Society.
+Presented in webinars for Namati, Open Society Foundations, Funders Initiative on Civil Society and Global Green Grants. 
 </p>
-</ul>
+
 
