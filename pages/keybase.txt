@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/thomwithoutanh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tomwalker.fyi
+  * I am thomwithoutanh (https://keybase.io/thomwithoutanh) on keybase.
+  * I have a public key ASCenRZyBNawRmrFdtBbQ4xVw8kdsc8a2KPhpWB6P3DjIAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209e9d167204d6b0466ac576d05b438c55c3c91db1cf1ad8a3e1a5607a3f70e3200a",
+      "host": "keybase.io",
+      "kid": "01209e9d167204d6b0466ac576d05b438c55c3c91db1cf1ad8a3e1a5607a3f70e3200a",
+      "uid": "12902857b6f83d57c0d380db67246d19",
+      "username": "thomwithoutanh"
+    },
+    "merkle_root": {
+      "ctime": 1576608031,
+      "hash": "6173ab43943b1a79553668f8d664e5a98f832a0e490fb9f8ca4e2627daffbf00daceba4c6150bc05f3bd13116c3a64497212202a33303972cc78c00f86e135e6",
+      "hash_meta": "db938145253c6d26e528bcb0ee6c25a06208c3563bcaf69e93108858cfce74b2",
+      "seqno": 13709456
+    },
+    "service": {
+      "entropy": "8gdQVe+s0BMqs97Mu9qLqN3z",
+      "hostname": "tomwalker.fyi",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1576608188,
+  "expire_in": 504576000,
+  "prev": "37fa5d995c8833e533efaffae0eac86d851af1ff6445eb1847e870ffd1863535",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnp0WcgTWsEZqxXbQW0OMVcPJHbHPGtij4aVgej9w4yAKp3BheWxvYWTESpcCHcQgN/pdmVyIM+Uz76/64OrIbYUa8f9kResYR+hw/9GGNTXEIJerQebLM5W9vQvWkGYTDQBPrE7vtBOwSy/5+jljgro0AgHCo3NpZ8RAQmyWpNIxFxvU0t+Tc5Gk/5TYCWo2gLUehSj5S/Mu8WoWVt2gNHf+QAHu6RUnu5nGDQKLbmVpL8O1ECD4mwhgAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE57vcUOhGxtXIs8Ow2UcLJ8Bm52Ct4XoLvrixLdDqFdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thomwithoutanh
+
+==================================================================
+
