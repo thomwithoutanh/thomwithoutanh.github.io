@@ -13,7 +13,7 @@ order: 2
 
 <p style="padding-left: 30px;"><a href="/assets/publications/privacy-beneficial-ownership.pdf" target="_blank">Privacy or Public Interest? Making the Case for Public Information on Company Ownership</a>The B Team & OpenOwnership 2019. <em>[Project Lead]</em></p>
 
-<p style="padding-left: 30px;"><a href="http://www.bteam.org/announcements/evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries/" target="_blank"><img src="/assets/img/privacy-beneficial-ownership.png" alt="privacy-beneficial-ownership" height="300" width="220"></a><strong><small>(1MB <a href="/assets/publications/privacy-beneficial-ownership.pdf" target="_blank">PDF</a>)</small></strong></p>
+<p style="padding-left: 30px;"><a href="/assets/publications/privacy-beneficial-ownership.pdf" target="_blank"><img src="/assets/img/privacy-beneficial-ownership.png" alt="privacy-beneficial-ownership" height="300" width="220"></a><strong><small>(1MB <a href="/assets/publications/privacy-beneficial-ownership.pdf" target="_blank">PDF</a>)</small></strong></p>
 
 <p style="padding-left: 30px;"><a href="https://engn.it/appsreport" target="_blank">Humanitarian Futures for Messaging Apps: Understanding the opportunities and risks</a>&quot;, International Committee of the Red Cross (ICRC), 2017. <em>[Lead researcher]</em></p>
 
