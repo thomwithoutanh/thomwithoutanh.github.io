@@ -1,28 +1,17 @@
 ---
 layout: about
-title:  Hi, I'm Tom
-sitemap: false
+title: About
+menu: true
+order: 7
 ---
 
-
-<!--author-->
-
-
-## What I do
-
-I research, 
-
-I've worked on issues around environmental justice, legal empowerment, responsible data, transparency and accountability, land rights, and anti-corruption investigations - in media, think tanks, political risk analysis and a wide range of advocacy organisations. 
-
-Here are some of the [projects I've worked on](/projects). 
-
-Here's my [full CV](/resume):
+I'm interested in investigations, helping fit technology and data into advocacy organisations' work and communicating data effectively. I've worked in media, think tanks, political risk analysis, NGOs and with a wide range of advocacy organisations.
 
 
-## Background
-
-I've worked in more than 17 countries, and interviewed more than 200 organisations about their approaches to learning, technology and data, and advocacy.
-
-I've worked with:
-[International Committee of the Red Cross](https://www.icrc.org/), [Oxfam](https://www.oxfam.org/en), [CIVICUS](https://civicus.org/), [Amnesty International](https://www.amnesty.org/en/tech/), [Open Society Foundations](https://www.justiceinitiative.org/). I've also worked for [Hivos](https://hivos.org/), [Rainforest Foundation Norway](http://www.regnskog.no/en/), [Global Witness](https://www.globalwitness.org/en/), and many more.
-
+<br>
+<blockquote>
+<div dir="ltr"><strong>Tom Walker</strong></div>
+<div dir="ltr" style="text-align: left;">London, UK</div>
+<div dir="ltr" style="text-align: left;">email: <a href="mailto:hello@tomwalker.fyi">hello@tomwalker.fyi</a></div>
+<div dir="ltr" style="text-align: left;">twitter: <a href="https://twitter.com/thomwithoutanh">thomwithoutanh</a> </div>
+<div dir="ltr" style="text-align: left;">PGP: <a href="https://keybase.io/thomwithoutanh">8415 559B E021 814D</a></div></blockquote>

@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="en"><!--
+ __  __                __                                     __
+/\ \/\ \              /\ \             __                    /\ \
+\ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
+ \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
+  \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
+   \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
+    \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
+                /\___/                \ \____/
+                \/__/                  \/___/
+
+Powered by Hydejack v7.5.1 <https://qwtel.com/hydejack/>
+-->
+
+
+
+
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+  
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Responsible data considerations for sharing human rights data | Tom Walker</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Responsible data considerations for sharing human rights data" />
+<meta name="author" content="Tom Walker" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="This post was written by Tom Walker and Fieke Jansen, with input from Rachel Rank and Lorena Klos." />
+<meta property="og:description" content="This post was written by Tom Walker and Fieke Jansen, with input from Rachel Rank and Lorena Klos." />
+<link rel="canonical" href="http://localhost:4000/2015/10/24/human-rights-data-sharing/" />
+<meta property="og:url" content="http://localhost:4000/2015/10/24/human-rights-data-sharing/" />
+<meta property="og:site_name" content="Tom Walker" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-02-27T00:00:00+00:00" />
+<script type="application/ld+json">
+{"description":"This post was written by Tom Walker and Fieke Jansen, with input from Rachel Rank and Lorena Klos.","author":{"@type":"Person","name":"Tom Walker"},"@type":"BlogPosting","url":"http://localhost:4000/2015/10/24/human-rights-data-sharing/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon.png"},"name":"Tom Walker"},"headline":"Responsible data considerations for sharing human rights data","dateModified":"2018-02-27T00:00:00+00:00","datePublished":"2018-02-27T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2015/10/24/human-rights-data-sharing/"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+  
+    <meta name="keywords" content="">
+  
+
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Tom Walker">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<meta name="application-name" content="Tom Walker">
+<meta name="msapplication-config" content="/assets/ieconfig.xml">
+
+
+<meta name="theme-color" content="#4fb1ba">
+
+
+<meta name="generator" content="Hydejack v7.5.1">
+
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Tom Walker" />
+
+
+
+<link rel="alternate" href="http://localhost:4000/2015/10/24/human-rights-data-sharing/" hreflang="en">
+
+<link rel="shortcut icon" href="/assets/icons/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/icons/icon.png">
+
+<link rel="manifest" href="/assets/manifest.json">
+
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+
+
+
+
+
+
+
+<link id="_katexJS"  rel="dns-prefetch" href="/assets/bower_components/katex/dist/katex.min.js">
+<link id="_katexCSS" rel="dns-prefetch" href="/assets/bower_components/katex/dist/katex.min.css">
+
+<script>
+  function stdOnEnd(n,e){n.onload=function(){this.onerror=this.onload=null,e(null,n)},n.onerror=function(){this.onerror=this.onload=null,e(new Error("Failed to load "+this.src),n)}}function ieOnEnd(n,e){n.onreadystatechange=function(){"complete"!=this.readyState&&"loaded"!=this.readyState||(this.onreadystatechange=null,e(null,n))}}window.setRelStylesheet=function(n){function e(){this.rel="stylesheet"}var o=document.getElementById(n);o.addEventListener?o.addEventListener("load",e,!1):o.onload=e},window._loaded=!1,window.loadJSDeferred=function(n,e){function o(){window._loaded=!0;var o=document.createElement("script");o.src=n,e&&(("onload"in o?stdOnEnd:ieOnEnd)(o,e),o.onload||stdOnEnd(o,e));var t=document.scripts[0];t.parentNode.insertBefore(o,t)}window._loaded?o():window.addEventListener?window.addEventListener("load",o,!1):window.onload=o};
+!function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);
+!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+
+  window._noPushState = false;
+  window._noDrawer = false;
+</script>
+
+<!--[if gt IE 8]><!---->
+
+
+<script>
+  WebFontConfig = {
+    
+    google: {
+      families: ['Roboto+Slab:700','Noto+Sans:400,400i,700,700i']
+    },
+    
+
+    custom: {
+      families: ['icomoon'],
+      urls: ['/assets/icomoon/style.css']
+    }
+  };
+  (function(d) {
+    var wf = d.createElement('script'), s = d.scripts[0];
+    wf.src = "/assets/bower_components/webfontloader/webfontloader.js";
+    s.parentNode.insertBefore(wf, s);
+  }(document));
+</script>
+<!--<![endif]-->
+
+<noscript>
+  
+  
+
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:700%7CNoto+Sans:400,400i,700,700i">
+    <style>
+      html { font-family: Noto Sans, Helvetica, Arial, sans-serif }
+      h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .heading { font-family: Roboto Slab, Helvetica, Arial, sans-serif }
+    </style>
+  
+
+  <link rel="stylesheet" href="/assets/icomoon/style.css">
+</noscript>
+
+<!--[if gt IE 8]><!---->
+
+
+
+  <link rel="stylesheet" href="/assets/css/hydejack-7.5.1.css">
+
+
+
+<style id="_pageStyle">
+
+.content a:not(.btn){color:#4fb1ba;border-color:rgba(79,177,186,0.2)}.content a:not(.btn):hover{border-color:#4fb1ba}:focus{outline-color:#4fb1ba}.btn-primary{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:focus,.btn-primary.focus{box-shadow:0 0 0 3px rgba(79,177,186,0.5)}.btn-primary:hover,.btn-primary.hover{color:#fff;background-color:#409ba3;border-color:#409ba3}.btn-primary:disabled,.btn-primary.disabled{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:active,.btn-primary.active{color:#fff;background-color:#409ba3;border-color:#409ba3}::selection{color:#fff;background:#4fb1ba}::-moz-selection{color:#fff;background:#4fb1ba}
+
+</style>
+
+<!--<![endif]-->
+
+
+
+
+</head>
+
+<body>
+  <div class="navbar fixed-top">
+  <div class="content">
+    <div class="nav-btn-bar">
+      <span class="sr-only">Jump to:</span>
+      <a id="_menu" class="nav-btn no-hover" href="#_navigation">
+        <span class="sr-only">Navigation</span>
+        <span class="icon-menu"></span>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<hy-push-state>
+  <main
+    id="_main"
+    class="content fade-in layout-post"
+    role="main"
+    data-color="#4fb1ba"
+    data-theme-color=""
+    
+      data-image="/assets/img/bg_2.jpg"
+      data-overlay
+    
+    >
+    
+
+
+<article id="post-2015-10-24-responsible-data-human-rights-data" class="page post" role="article">
+  <header>
+    <h1 class="post-title">
+      
+        Responsible data considerations for sharing human rights data
+      
+    </h1>
+
+    <p class="post-date heading">
+      
+      <time datetime="2018-02-27T00:00:00+00:00">27 Feb 2018</time>
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+in <span>Impact</span>
+
+      
+
+
+
+
+
+
+
+
+
+on <span>Technology, research</span>
+
+    </p>
+
+    
+
+
+
+  <div class="hr pb0"></div>
+
+
+  </header>
+
+  
+    <p><em>This post was written by Tom Walker and Fieke Jansen, with input from Rachel Rank and Lorena Klos.</em></p>
+
+<p>For many human rights funders, communicating clearly about the activities they fund (and why they are valuable) is an important part of their work. Indeed, funders often favour transparency on principle as an inherent good. How can they balance this with the responsibility to avoid harm, both to their grantees and the people their grantees they aim to help?</p>
+
+<p>With <a href="http://www.ariadne-network.eu/">Ariadne</a> and <a href="http://www.threesixtygiving.org/">360Giving</a>, <a href="https://www.theengineroom.org/">The Engine Room</a> is starting a research project to look deeper into these issues, supported by <a href="https://digitalimpact.org/2017-digital-impact-grants-cohort-selected/">Digital Impact</a> (part of the Digital Civil Society Lab at Stanford University).</p>
+
+<p>We’ve been interested in the topic since 2014, when we wrote a <a href="https://www.theengineroom.org/wp-content/uploads/2016/07/Responsible-Data-Forum-Data-in-the-donor-community.pdf">report based on interviews with 28 staff in 14 different grant-making organisations</a>, and it’s time for an update. We’ll be talking to a wide range of people, with the aim of finding out what they need to know to make strong, effective decisions. Before getting started, we’ve been looking at what we already know about funders’ data-sharing practices through a series of blogposts.</p>
+
+<p><a href="https://www.theengineroom.org/sharing-data-responsibly-funders/">The first looked at how and why funders’ are sharing grantee data publicly</a> and with other funders. This post, the second of two, discusses how funders are publicly describing their approach to the responsible data implications of sharing grantee data, as well as steps they’re taking in response to those issues.</p>
+
+<h3 id="challenges-to-sharing-data-responsibly">Challenges to sharing data responsibly</h3>
+
+<p>The mapping exercise raised a number of challenges that funders seeking to share data face, including adapting to closing civic space, balancing promoting transparency with limiting harm to grantees and collecting informed consent.</p>
+
+<h4 id="transparency-in-the-context-of-closing-civic-space">Transparency in the context of closing civic space</h4>
+
+<p>In many countries, civil society organisations’ space to operate is diminishing rapidly. According to the International Center for Not-for-Profit Law (ICNL), in 2015-16 governments worldwide <a href="http://www.icnl.org/research/trends/">adopted 64 laws, regulations, and other initiatives</a> to limit the operations of non-governmental organisations, including by restricting foreign funding or threatening to de-register them. Funding organisations with a prominent founder may also be subject to <a href="https://www.channel4.com/news/factcheck/why-the-conspiracy-theories-about-george-soros-dont-stack-up">public criticism</a> on the basis of their grant-making decisions. As the Transparency and Accountability Initiative’s 2017 report <a href="http://www.transparency-initiative.org/uncategorized/1996/distract-divide-detach-using-transparency-accountability-justify-regulation-csos/">Distract, Divide and Detach</a> explains, governments are increasingly attempting to discredit civil society organisations by focusing on any foreign connections they may have. Could publishing data demonstrating that an organisation has received money from a foreign funder thus increase the risks faced by a grantee?</p>
+
+<p>As well as targeting organisations legally, is there a risk that adversaries could use data shared in grants to surveil or physically target individuals or organisations? This mapping exercise found no documented cases where a grantee or the people it seeks to help were physically targeted as a direct result of data published by a funder. (If you know of any, <a href="mailto:research@theengineroom.org">let us know.</a>)</p>
+
+<p>Although this could be because there are no such cases, it could also indicate the difficulty of drawing a direct connection between a funder’s data and individual cases of harm. Nevertheless, <a href="https://responsibledata.io/resources/handbook">the human rights funding community has a responsibility to use, share and publish data in a way that avoids causing harm</a>. In particular, even when data has been de-identified, it may be possible for adversaries to re-identify individuals or organisations by combining it with other datasets. How regularly are funders thinking about these issues?</p>
+
+<h5 id="publishing-data-in-volatile-environments">Publishing data in volatile environments</h5>
+
+<p>Political environments and attitudes to funders can also change rapidly, making it harder for organisations to accurately assess future risks. As the Oak Foundation’s Head of Communications puts it <a href="https://www.hrfn.org/community-voices/a-hard-lesson-with-an-important-result-wording-audiences-and-grantee-consent/">in a 2015 blogpost</a>:</p>
+
+<blockquote>
+  <p>“Words [from published grant data] interpreted as appropriate language one day can be interpreted as anti-development, aggressive, hostile, or illegal at a later date…and this is hard to predict.”</p>
+</blockquote>
+
+<p>In one example of this trend, in 2015 the Indian government <a href="https://m.csmonitor.com/World/Asia-South-Central/2015/0504/India-crackdown-Ford-Foundation-latest-foreign-NGO-slapped-by-Delhi">cancelled the registrations of almost 9,000 civil society organisations that had received foreign funding</a>, as well as publicly placing funders such as the Ford Foundation on a ‘watch list’. In such changing contexts, grantee data considered to be innocuous when first published could become more sensitive, potentially increasing risks to grantees as a result.</p>
+
+<h5 id="transparency-vs-do-no-harm">Transparency vs do no harm?</h5>
+
+<p>According to <a href="http://simlab.org/resources/dogooddata/">research by SIMLab</a> (supported by a previous Digital Impact grant), some grantees are concerned about pressure from funders to share data:</p>
+
+<blockquote>
+  <p>“One former implementer told us that the pressure to provide funders with granular data for accountability, decision-making or just ‘openness’ was overwhelming, ‘but it’s hard to make sure it won’t get leaked, hacked or casually shared.’”</p>
+</blockquote>
+
+<p>This also highlights a potential tension between funders’ desire for transparency and openness – described in <a href="https://www.theengineroom.org/sharing-data-responsibly-funders/">our first blogpost</a> – and the principle of ‘do no harm.’ The report highlighted that the responsible data principle of ‘data minimisation’, which involves <a href="https://medium.com/@Simon_B_Johnson/minimum-viable-data-when-less-data-is-more-valuable-d225b5fa9c1b">only collecting data that is needed for a specific use case</a>, “is not yet culturally ingrained in all stakeholders in the RD system.”</p>
+
+<p>This tension is also visible in rhetoric around data-sharing. In 2015, the IATI secretariat complimented USAID’s approach to publishing data, <a href="https://www.aidtransparency.net/news/usaids-strategic-approach-to-improving-iati-compliance">noting that</a> it would “result in USAID publishing…the maximum level of compliance possible to continue to adhere to privacy laws.” Is there a risk that a focus on legal compliance could take precedence over a considered assessment of risks? We hope to look into this question in more detail during in the project.</p>
+
+<p>Writing in 2015, <a href="http://carnegieendowment.org/2015/11/02/closing-space-challenge-how-are-funders-responding/ikrg?mkt_tok=3RkMMJWWfF9wsRohvKvKZKXonjHpfsX57O0oXqKg38431UFwdcjKPmjr1YQETMV0aPyQAgobGp5I5FEIQ7XYTLB2t60MWA%3D%3D">Thomas Carothers suggested</a> that funders may be “gravitating toward a kind of ‘transparency lite’ approach — being quite transparent about the specifics of their programming in contexts where they are not facing closing space, but selectively reducing available programme information in restrictive environments.” This project will aim to find out if this trend has continued, and any implications that this may have for funders’ approaches. As mentioned above, even a country that has space for civil society today can become a closed or contested space tomorrow.</p>
+
+<h5 id="consent">Consent</h5>
+
+<p>This mapping exercise found only limited publicly available information about funders’ processes when asking grantees for consent to share or publish their data. This raises a number of questions about how consent is implemented in practice. When and how are grantees informed on the potential sharing of application and organisation data? As discussed at a <a href="https://www.hrfn.org/community-voices/responsible-data-forum-for-human-rights-defenders-key-takeaways/">Human Rights Funders Network event in 2016</a>, can grantees opt out of sharing information without negative consequences? As Danna Ingleton and Keith Armstrong, reporting back from the event, summarised the concern:</p>
+
+<blockquote>
+  <p>“Will a prospective grantee view a question marked “optional” on a grant application as genuinely optional, or will they feel compelled to answer it because they think it will improve their chances of receiving the grant?”</p>
+</blockquote>
+
+<p>Separately, there is also a question of responsibility Who is responsible for ensuring that personal data is not published without consent: the individual funding organisations or the platforms that host the data?</p>
+
+<p>Several funders have publicly described how they have set up processes to address this: for example, the Oak Foundation states that before grant descriptions are published publicly, they are reviewed and approved by the partner themselves. This process was set up partly in response to a 2011 incident in which Oak mistakenly <a href="https://www.hrfn.org/community-voices/a-hard-lesson-with-an-important-result-wording-audiences-and-grantee-consent/">published descriptions of grants that staff used internally (rather than the edited versions included in annual reports)</a> as part of their grants database, provoking criticism from a blogger that the descriptions were “ambiguous and inflammatory.”</p>
+
+<p>360Giving provides <a href="http://standard.threesixtygiving.org/en/latest/data-protection/">guidelines</a> for asking grantees’ consent to publish data, and examples of how to present such requests. We’re interested in hearing about any other examples, and looking forward to finding out more about how other organisations’ processes work.</p>
+
+<h5 id="how-can-funders-and-grantees-assess-the-risks-of-sharing-data">How can funders and grantees assess the risks of sharing data?</h5>
+
+<p>In <a href="https://www.hrfn.org/community-voices/responsible-data-forum-for-human-rights-defenders-key-takeaways/">the Human Rights Funders Network’s 2016 event</a> on responsible data practice, discussion focused on the need for grant-makers to evaluate the risks of sharing data more accurately. On the basis of this mapping exercise, it is unclear if judgements about what data is ‘sensitive’ are usually made by individual programme officers or programme heads in funding organisations: during this mapping exercise, we found several instances where this was the case. Does this risk relying too much on the accuracy of an individual’s interpretation of a grantee’s situation?</p>
+
+<h5 id="trade-offs-publishing-funding-data-responsibly-may-limit-its-usefulness-for-analysis">Trade-offs: Publishing funding data responsibly may limit its usefulness for analysis</h5>
+
+<p>As the UK Data Service (which, among other things, archives data collected by civil society organisations) points out, removing some data may make overall datasets less comprehensive, and thus <a href="https://www.ukdataservice.ac.uk/media/604168/hrdw_bishop29102015.pdf">less useful for analysis</a>. For example, although a dataset might indicate that human rights groups working on a specific topic are underfunded, in reality several funders may have intentionally excluded them from a dataset because of responsible data considerations. Initiatives collecting and aggregating data in this way often deal with this by explicitly stating their methodology and highlighting limitations in the data sample. We’re looking forward to hearing if other organisations are thinking about these issues, too.</p>
+
+<h3 id="how-are-funders-trying-to-share-data-responsibly">How are funders trying to share data responsibly?</h3>
+
+<p>Human rights funders need to balance a number of issues when sharing data, including mitigating potential harm to an individual or grantee, safeguarding the reliability of the data when published, and promoting the sharing of data whenever possible. This mapping found that indications that funders are thinking about these issues in a number of ways:</p>
+
+<p><strong>Some funders may be collecting less data from grantees</strong>. On the basis of interviews conducted in 2015, the <a href="http://carnegieendowment.org/2015/11/02/closing-space-challenge-how-are-funders-responding/">Carnegie Endowment suggested</a> that “some funders are discussing internally whether they should…reduce [grantees’] vulnerability to monitoring by hostile security services, by collecting less detailed information about them [and] asking grantees to report in less detail about what they do, and conducting fewer site visits to grantee organisations.”</p>
+
+<p><strong>Other funders may be publishing or sharing less of the data they collect</strong>. Funders may decide not to publish or redact grantee data by stripping out specific data fields (such as grantee addresses) or choosing not to publish selected elements of data. For an example of this approach, the Advancing Human Rights Initiative <a href="http://humanrightsfunding.org/about/?tab=what-challenges-did-we-encounter">asks funders to list grantees working on sensitive projects as “anonymous,”</a> and requests that they only disclose information that would not compromise the grantee’s safety. Several funders chose to submit all grants data anonymously. Notably, the initiative also said that it does not publicly share aggregate data (such as country-level trends), perhaps because of concerns about the uses other actors could make data in this format.</p>
+
+<p><strong>Some groups create (or follow) guidelines for publishing grantee data responsibly</strong>. Some organisations are responding by <a href="https://responsibledata.io/2015/04/30/report-back-closed-roundtable-on-organizational-responsible-data-policies/">creating policies or guidelines</a>. For example, 360Giving’s guidelines to funders publishing data advise that: “There can be cases where grants data is sensitive for reasons other than privacy. For example, the address of a women’s refuge might be inappropriate to include in data about a grant to that organisation.” In a small number of cases, the funders themselves provide guidelines: the UK-based Big Lottery Fund gives grantees <a href="https://www.biglotteryfund.org.uk/funding/funding-guidance/managing-your-funding/about-equalities/more-information/data-protection">advice on how to submit data to them</a> in line with national data protection legislation. The Digital Impact Toolkit hosts a <a href="https://digitalimpact.io/document/data-sharing-funder-required-plan/">draft data sharing policy</a>, while the Responsible Data community’s Handbook includes a <a href="https://the-engine-room.github.io/responsible-data-handbook/chapters/chapter-02c-sharing-data.html#sharing-data">section on sharing data responsibly</a>.</p>
+
+<p>To take another example, organisations publishing to the IATI Standard that want to exclude some data are required to state their reasons for doing so in a public exclusion policy. <a href="http://iatistandard.org/202/guidance/how-to-publish/establish-publishing-policies/#exclusions">In its guidance</a>, IATI states that funders may not wish to publish details of their work and the areas in which it takes place “if your organisation carries out works which could be considered by states or societies as illegal or unacceptable,” or “if you are working in sensitive geographic areas.” Funders listed in the IATI registry adopt different approaches to this. Some publish exclusion policies stating that, in general terms, they will not publish data for programmes working on issues that are considered sensitive; others say that they will exclude specific types of information, while still others include no explicit exclusion policies.</p>
+
+  
+</article>
+
+
+<hr class="dingbat related" />
+
+
+
+
+  
+     
+
+
+  <aside class="about related mt4 mb4" role="complementary">
+    
+    
+
+<div class="author mt4">
+  
+
+  
+    
+  
+
+  
+
+  
+  <img
+    src="/assets/img/tomw.jpg"
+    class="avatar"
+    alt="Tom Walker"
+    srcset="/assets/img/tomw.jpg 1x,/assets/img/tomw.jpg 2x"
+    
+    
+  />
+
+
+  
+
+  
+  
+  <h2  class="page-title hr">
+    About
+  </h2>
+
+  <p>I’m a researcher and writer.</p>
+
+
+  <div class="sidebar-social">
+    <span class="sr-only">Social:</span>
+<ul>
+  
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://twitter.com/thomwithoutanh" title="Twitter" class="no-mark-external">
+    <span class="icon-twitter"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://github.com/thomwithoutanh" title="GitHub" class="no-mark-external">
+    <span class="icon-github"></span>
+    <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:<hello@tomwalker.fyi>" title="Email" class="no-mark-external">
+    <span class="icon-mail"></span>
+    <span class="sr-only">Email</span>
+  </a>
+</li>
+
+  
+</ul>
+
+  </div>
+</div>
+
+  </aside>
+
+
+  
+
+  
+  
+
+  
+    
+
+
+
+
+<aside class="related mb4" role="complementary">
+  <h2 class="hr">Related Posts</h2>
+
+  <ul class="related-posts">
+    
+      
+
+
+<li>
+  <a href="/2015/10/24/measuring-impact/" class="h4 flip-title">
+    <span>Improving how we measure impact - a round-up of projects and approaches</span>
+  </a>
+  <time class="heading faded fine" datetime="2014-10-11T00:00:00+01:00">11 Oct 2014</time>
+</li>
+
+    
+  </ul>
+</aside>
+
+
+  
+
+
+    
+
+
+    <footer role="contentinfo">
+  <hr/>
+  
+    <p><small class="copyright">Original content licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Fork it on <a href="https://github.com/thomwithoutanh/thomwithoutanh.github.io">Github</a>.
+</small></p>
+  
+  
+  <p><small>Powered by <a class="external" href="https://qwtel.com/hydejack/">Hydejack</a> v<span id="_version">7.5.1</span></small></p>
+  <hr class="sr-only"/>
+</footer>
+  
+
+  </main>
+  <hy-drawer>
+  <header id="_sidebar" class="sidebar" role="banner">
+    
+    <div class="sidebar-bg sidebar-overlay" style="background-color:#4fb1ba;background-image:url(/assets/img/bg_2.jpg)"></div>
+
+    <div class="sidebar-sticky">
+      <div class="sidebar-about">
+        <h2 class="h1"><a href="/">Tom Walker</a></h2>
+        
+        
+          <p class="">
+            Researcher and writer
+
+          </p>
+        
+      </div>
+
+      <nav class="sidebar-nav heading" role="navigation">
+        <span class="sr-only">Navigation:</span>
+<ul>
+  
+  
+  
+  
+    
+      <li>
+        <a
+          id="_navigation"
+          href="/blog/"
+          class="sidebar-nav-item"
+          
+          >
+          Blog
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/research/"
+          class="sidebar-nav-item"
+          
+          >
+          Publications
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/guides/"
+          class="sidebar-nav-item"
+          
+          >
+          Practical guides
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/Talks/"
+          class="sidebar-nav-item"
+          
+          >
+          Talks and Media
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/about/"
+          class="sidebar-nav-item"
+          
+          >
+          About
+        </a>
+      </li>
+    
+  
+</ul>
+
+      </nav>
+
+      
+
+      <div class="sidebar-social">
+        <span class="sr-only">Social:</span>
+<ul>
+  
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://twitter.com/thomwithoutanh" title="Twitter" class="no-mark-external">
+    <span class="icon-twitter"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://github.com/thomwithoutanh" title="GitHub" class="no-mark-external">
+    <span class="icon-github"></span>
+    <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:<hello@tomwalker.fyi>" title="Email" class="no-mark-external">
+    <span class="icon-mail"></span>
+    <span class="sr-only">Email</span>
+  </a>
+</li>
+
+  
+</ul>
+
+      </div>
+    </div>
+  </header>
+</hy-drawer>
+
+</hy-push-state>
+
+
+  
+
+  <!--[if gt IE 9]><!---->
+  
+  <script>loadJSDeferred('/assets/js/hydejack-7.5.1.js');</script>
+  
+  <!--<![endif]-->
+
+
+
+  
+<hr class="sr-only"/>
+<h2 class="sr-only">Templates (for web app):</h2>
+
+<template id="_animation-template">
+  <div class="animation-main fixed-top">
+    <div class="content">
+      <div class="page"></div>
+    </div>
+  </div>
+</template>
+
+<template id="_loading-template">
+  <div class="loading">
+    <span class="sr-only">Loading…</span>
+    <span class="icon-cog"></span>
+  </div>
+</template>
+
+<template id="_error-template">
+  <div class="page">
+    <h1 class="page-title">Error</h1>
+    
+    
+    <p class="lead">
+      Sorry, an error occurred while loading <a class="this-link" href=""></a>.
+
+    </p>
+  </div>
+</template>
+
+<template id="_back-template">
+  <a id="_back" class="back nav-btn no-hover">
+    <span class="sr-only">Back</span>
+    <span class="icon-arrow-left2"></span>
+  </a>
+</template>
+
+<template id="_permalink-template">
+  <a href="#" class="permalink">
+    <span class="sr-only">Permalink</span>
+    <span class="icon-link"></span>
+  </a>
+</template>
+
+
+
+</body>
+</html>
