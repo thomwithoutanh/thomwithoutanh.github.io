@@ -10,25 +10,25 @@ sitemap: false
 
 ## My focus
 
-I focus on how complex, opaque systems affect ordinary people. From the anonymous ownership structures that help companies cut down rainforests in south-east Asia, to the algorithmic decision-making systems that allow governments to identify vulnerable people, I believe that these systems need to be scrutinised rigorously.
+I research complex and opaque systems, and how they affect people and the environment.
+{:.lead}
+
+From anonymously owned companies illegally cutting down rainforests to algorithms that governments use to identify vulnerable people, these systems have major impacts.
+
+I believe that we need to scrutinise them in depth. 
 
 
-how complex systems designed by governments and companies affect people, and what those people can do to influence it. 
+## Background
 
-I'm particular
+I've worked in more than 17 countries, and interviewed more than 300 organisations.
 
- environmental justice, transparency and accountability, land rights, and anti-corruption investigations. 
-Anti-corruption
-Transparency
-Land rights
-
-
-
-
-Here are some [projects I've worked on](/projects). 
+Here are some [projects I've worked on](/projects){:target="_blank"}. 
 
 I'm an experienced editor, and have worked at think tanks, newspapers and a range of human rights organisations.
+{:.faded}
 
+Here's my [full CV](/resume):
+{:.faded}
 
 ## Background
 
