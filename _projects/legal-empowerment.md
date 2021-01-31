@@ -12,7 +12,7 @@ image:
     960w:  /assets/img/tech-legal-empowerment.png
     480w:  /assets/img/tech-legal-empowerment.png
 links:
-  - title: Link
+  - title: PDF (1.6mb)
     url: /assets/publications/Tech-Legal-Empowerment.pdf
 accent_color: '#4fb1ba'
 accent_image:
@@ -37,9 +37,9 @@ Around the world, many organisations are using technology to support legal empow
 
 However, we don’t know enough about all the ways that technology is being used for legal empowerment worldwide, common trends, and what goes into a successful project.
 
-#### Background
+## Background
 
-**I worked with the [Open Society Justice Initiative](https://www.opensocietyfoundations.org/who-we-are/programs/open-society-justice-initiative) to research how legal empowerment actors worldwide are using technology to give people information about the law, connect them with legal advice, and provide them with legal services. 
+I worked with the [Open Society Justice Initiative](https://www.opensocietyfoundations.org/who-we-are/programs/open-society-justice-initiative) to research how legal empowerment actors worldwide are using technology to give people information about the law, connect them with legal advice, and provide them with legal services. 
 
 I led the research project, presenting it at 
 
@@ -52,7 +52,7 @@ The full report is available for download, and you can read a summary online-fir
 #### [📬 Sign up for the email digest](http://eepurl.com/gfvhBv){:target="_blank"}
 
 
-#### Who is this for? 
+## Who is this for? 
 
 We created this report for:
 
@@ -64,7 +64,7 @@ We’re conscious that long reports might not be the best way for the busy peopl
 
 [Sign up here to receive the digest at any time.](http://eepurl.com/gfvhBv)
 
-#### Impact
+## Reception
 
 Here's a collection of comments on the report.
 
