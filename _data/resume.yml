@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Tom Walker",
-    "label": "Researcher and writer",
+    "label": "I'm a researcher and editor.",
     "picture": "/assets/img/tomw.png",
-    "summary": "I’m a researcher and writer.",
+    "summary": "I research complex and opaque systems, and how they affect people and the environment. I'm particularly interested in governments' use of AI to identify vulnerable people, and land rights, corruption and deforestation in south-east Asia.",
     "location": {
       "countryCode": "UK",
       "address": "Brighton"
