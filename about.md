@@ -11,8 +11,6 @@ sitemap: false
 I research complex and opaque systems, and how they affect people and the environment.
 {:.lead}
 
-From anonymously owned companies illegally cutting down rainforests to algorithms that governments use to identify vulnerable people, these systems have major impacts.
-
 I believe that they need in-depth scrutiny. 
 
 

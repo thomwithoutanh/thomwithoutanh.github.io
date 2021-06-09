@@ -8,9 +8,7 @@ Tom:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I'm a researcher and editor. 
-
-    I currently work at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org), researching how public bodies use AI to deliver public services, and investigative journalism initiative [The Gecko Project](https://thegeckoproject.org/), working on an investigation into palm oil companies in Indonesia.  
+    I'm an independent researcher and editor. 
 
   # This photo will be used in the about section
   picture:

@@ -168,12 +168,12 @@
   "education": [
     {
       "institution": "King's College London, University of London",
-      "area": "Global History",
+      "area": "World History",
       "studyType": "MA",
       "startDate": "2009-12-31",
       "endDate": "2010-12-31", 
-      "class": "Distinction",
-      "courses": []
+      "gpa": "Distinction",
+      "courses": [Focus on history of decolonisation in 1940s-50s.]
     },
     {
       "institution": "University of Durham",
