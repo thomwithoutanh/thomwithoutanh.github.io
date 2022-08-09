@@ -11,8 +11,6 @@ sitemap: false
 I research complex and opaque systems, and how they affect people and the environment.
 {:.lead}
 
-I believe that they need in-depth scrutiny. 
-
 
 ## My background
 
