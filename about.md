@@ -18,9 +18,6 @@ I specialise in work focused on transparency and accountability, particularly re
 
 Over the last ten years, I've worked in more than 17 countries, and interviewed people from over 300 organisations. Here are some [projects I've worked on](/projects){:target="_blank"}. 
 
-I'm an experienced editor, and have worked at think tanks, newspapers and a range of human rights organisations.
-{:.faded}
-
 Here's my [full CV](/resume):
 {:.note}
 
