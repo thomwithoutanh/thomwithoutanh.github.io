@@ -9,7 +9,7 @@ selected_projects:
   - _projects/messaging-apps.md
   - _projects/tool-selection-research.md
 projects_page: projects.md
-featured: false
+featured: true
 ---
 
 
