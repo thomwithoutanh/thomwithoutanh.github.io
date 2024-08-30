@@ -28,8 +28,17 @@
   },
   "work": [
     {
-      "company": "Ada Lovelace Institute",
+      "company": "The Gecko Project",
       "endDate": "",
+      "highlights": [],
+      "position": "Head of Research",
+      "startDate": "2020-04-30",
+      "summary": "Lead research and production of investigative reports on corruption, climate, rainforests, and rights at The Gecko Project. \n- Coordinate collaborations with partner media organisations including the BBC, International Consortium of Investigative Journalists (ICIJ), El Pais and Suddeutsche Zeitung, to uncover critical issues impacting the environment and human rights.",
+      "website": "https://thegeckoproject.org/"
+    },
+    {
+      "company": "Ada Lovelace Institute",
+      "endDate": "2021-04-30",
       "highlights": [],
       "position": "Researcher",
       "startDate": "2020-04-30",
@@ -37,12 +46,21 @@
       "website": "https://www.adalovelaceinstitute.org//"
     },
     {
+      "company": "Hivos",
+      "endDate": "2020-03-30",
+      "highlights": [],
+      "position": "Learning Specialist",
+      "startDate": "2019-01-31",
+      "summary": "Senior organisation-wide role developing learning processes, advising on programme development and helping develop a digital futures agenda for the organisation.",
+      "website": "https://hivos.org/"
+    },
+    {
       "company": "tomwalker.fyi",
       "endDate": "2020-04-30",
       "highlights": [],
       "position": "Researcher (consultant)",
       "startDate": "2019-01-31",
-      "summary": "Independent research and advisory on data, technology and human rights issues.\n- Long-term consultancy for the Dutch NGO Hivos in 'Learning Specialist' role, developing organisation-wide learning processes, advising on programme development and helping develop a digital futures agenda for the organisation.\n- Research on working practices of Iraqi human rights documenters to inform the creation of new workflows. \n- Research on interactions between volunteers with technology/data skills and UK charities, to identify ways to make collaboration more common and more effective. \n- Data journalism research for investigative media outlet The Gecko Project, focused on land rights and palm oil in Indonesia.",
+      "summary": "Independent research and advisory on data, technology and human rights issues.\n- Research on working practices of Iraqi human rights documenters to inform the creation of new workflows. \n- Research on interactions between volunteers with technology/data skills and UK charities, to identify ways to make collaboration more common and more effective.,
       "website": "https://tomwalker.fyi"
     },
     {
@@ -78,7 +96,7 @@
       "highlights": [],
       "position": "Asia Programme Officer",
       "startDate": "2013-06-30",
-      "summary": "Project-manager and researcher on initiatives supporting democratic institutions and culture in south and south-east Asia. \n\n- Designed and/or managed election-monitoring and anti-corruption projects in Rwanda, Bolivia and Myanmar together with local civil society organisations , with budgets totalling more than €450,000. Wrote successful bids worth €400,000 from EU Commission, UK Foreign and Commonwealth Office (FCO) and DFID.\n\n- Monitored political developments in Asia (with an emphasis on Myanmar, Bangladesh and Pakistan) and prepared briefing notes, detailed project proposals and updates for donors and other international organisations. Topics of focus included training domestic election observers, advocacy for more transparent campaign finance, civic and voter education campaigns and media monitoring. \n\n- Conducted needs assessment mission to Myanmar, interviewing politicians, international institutions and civil society to make recommendations on support needs, as part of ERIS' collaboration with the Carter Center and Democracy Reporting International. \n\n- Prepared proposals for European Union funded programmes, winning bids worth a total of €400,000, and project managed several European Commission projects worth a total of €450,000. \nDuties included contributing to the technical and financial offer (including preparing budgets), recruiting and liaising with experts, project management; backstopping; preparing contracts; financial monitoring, negotiating workplan amendments and budget reallocations with the European Union, monitoring project outputs for quality and adherence to workplan. \n\n- Managed content on ERIS' website and presence on social media, including writing, editing and commissioning content, and sourcing photos, maps and other graphic content.",
+      "summary": "Project-manager and researcher on initiatives supporting democratic institutions and culture in south and south-east Asia. \n\n- Designed and/or managed election-monitoring and anti-corruption projects in Rwanda, Bolivia and Myanmar together with local civil society organisations , with budgets totalling more than €450,000. Wrote successful bids worth €400,000 from EU Commission, UK Foreign and Commonwealth Office (FCO) and DFID.\n\n- Monitored political developments in Asia (with an emphasis on Myanmar, Bangladesh and Pakistan) and prepared briefing notes, detailed project proposals and updates for donors and other international organisations. Topics of focus included training domestic election observers, advocacy for more transparent campaign finance, civic and voter education campaigns and media monitoring. \n\n- Conducted needs assessment mission to Myanmar, interviewing politicians, international institutions and civil society to make recommendations on support needs, as part of ERIS' collaboration with the Carter Center and Democracy Reporting International. \n\n- Prepared proposals for European Union funded programmes, winning bids worth a total of €400,000, and project managed several European Commission projects worth a total of €450,000. \nDuties included contributing to the technical and financial offer (including preparing budgets), recruiting and liaising with experts, project management; backstopping; preparing contracts; financial monitoring, negotiating workplan amendments and budget reallocations with the European Union, monitoring project outputs for quality and adherence to workplan.,
       "website": "https://web.archive.org/web/20201021205516/http://www.eris.org.uk/"
     },
     {
@@ -193,13 +211,6 @@
       "releaseDate": "2020-09-06",
       "website": "https://shop.meatspacepress.com/product/data-justice-and-covid-19-global-perspectives-donate-download",
       "summary": "Co-authored a chapter on the development of technology in the UK in response to the COVID-19 pandemic."
-    },
-    {
-      "name": "Data Use: A Briefing for an international NGO's strategy process",
-      "publisher": "",
-      "releaseDate": "2020-02-10",
-      "website": "",
-      "summary": "Wrote this briefing to support an NGO seeking to better understand the future contribution it can make to understand, engage with and remove critical barriers to data use."
     },
     {
       "name": "Technology for Legal Empowerment: A Global Review",
