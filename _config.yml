@@ -24,10 +24,10 @@ title:                 Tom Walker
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-# description:           "Researcher and editor"
+description:           "Investigative researcher"
  
 # A shorter description for the sidebar.
-# tagline:               Researcher and writer
+tagline:               Investigative researcher and writer
 
 # A list of keywords for your blog
 keywords:              []
