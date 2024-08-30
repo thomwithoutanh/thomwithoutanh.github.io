@@ -14,7 +14,7 @@ I research complex and opaque systems, and how they affect people and the enviro
 
 ## My background
 
-I specialise in work focused on transparency and accountability, particularly related to forests, land rights and AI.  
+I specialise in work focused on corruption, climate and corporate accountability.  
 
 I've worked with:
 [International Committee of the Red Cross](https://www.icrc.org/), [Oxfam](https://www.oxfam.org/en), [CIVICUS](https://civicus.org/), [Amnesty International](https://www.amnesty.org/en/tech/), [Open Society Foundations](https://www.justiceinitiative.org/), [Hivos](https://hivos.org/), [Rainforest Foundation Norway](http://www.regnskog.no/en/), [Global Witness](https://www.globalwitness.org/en/), and many more.
