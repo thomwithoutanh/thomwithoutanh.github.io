@@ -3,7 +3,7 @@
     "name": "Tom Walker",
     "label": "I'm a researcher and editor.",
     "picture": "/assets/img/tomw.png",
-    "summary": "I research complex and opaque systems, and how they affect people and the environment. I'm particularly interested in governments' use of AI to identify vulnerable people, and land rights, corruption and deforestation in south-east Asia.",
+    "summary": "I research complex and opaque systems, and how they affect people and the environment.",
     "location": {
       "countryCode": "UK",
       "address": "Brighton"
@@ -42,8 +42,8 @@
       "highlights": [],
       "position": "Researcher",
       "startDate": "2020-04-30",
-      "summary": "Research for this independent research and deliberative body, which promotes informed public understanding of the impact of AI and data-driven technologies on different groups in society.",
-      "website": "https://www.adalovelaceinstitute.org//"
+      "summary": "Led research project analysing UK local government use of AI to identify vulnerable individuals.Managed four-person research team in collaboration with University College London (UCL), conducting over 100 interviews and meeting observations over a four-month period.",
+      "website": "https://www.adalovelaceinstitute.org/"
     },
     {
       "company": "Hivos",
@@ -59,7 +59,7 @@
       "endDate": "2020-04-30",
       "highlights": [],
       "position": "Researcher (consultant)",
-      "startDate": "2019-01-31",
+      "startDate": "2018-01-31",
       "summary": "Independent research and advisory on data, technology and human rights issues.\n- Research on working practices of Iraqi human rights documenters to inform the creation of new workflows. \n- Research on interactions between volunteers with technology/data skills and UK charities, to identify ways to make collaboration more common and more effective.,
       "website": "https://tomwalker.fyi"
     },
@@ -68,17 +68,8 @@
       "endDate": "2018-12-31",
       "highlights": [],
       "position": "Research Lead",
-      "startDate": "2015-10-31",
-      "summary": "The Engine Room is an international organisation that helps activists, organisations and other social change agents make the most of data and technology.\n\n- Led delivery of 11 projects researching social change organisations’ use of data and technology. Partnered with organisations from 22 countries, including CIVICUS, Oxfam and Global Witness. Projects ranged from multi-year, multi-country grants to short-term consultancies.\n- Managed teams of up to 12 people on individual projects, including UX/graphic designers, developers and technologists.",
-      "website": "https://theengineroom.org"
-    },
-    {
-      "company": "The Engine Room",
-      "endDate": "2015-10-31",
-      "highlights": [],
-      "position": "Research Associate",
       "startDate": "2014-08-31",
-      "summary": "Promoted to Research Lead in 2015.",
+      "summary": "The Engine Room is an international organisation that helps activists, organisations and other social change agents make the most of data and technology.\n\n- Led delivery of 11 projects researching social change organisations’ use of data and technology. Partnered with organisations from 22 countries, including CIVICUS, Oxfam and Global Witness. Projects ranged from multi-year, multi-country grants to short-term consultancies.\n- Managed teams of up to 12 people on individual projects, including UX/graphic designers, developers and technologists.",
       "website": "https://theengineroom.org"
     },
     {
@@ -96,7 +87,7 @@
       "highlights": [],
       "position": "Asia Programme Officer",
       "startDate": "2013-06-30",
-      "summary": "Project-manager and researcher on initiatives supporting democratic institutions and culture in south and south-east Asia. \n\n- Designed and/or managed election-monitoring and anti-corruption projects in Rwanda, Bolivia and Myanmar together with local civil society organisations , with budgets totalling more than €450,000. Wrote successful bids worth €400,000 from EU Commission, UK Foreign and Commonwealth Office (FCO) and DFID.\n\n- Monitored political developments in Asia (with an emphasis on Myanmar, Bangladesh and Pakistan) and prepared briefing notes, detailed project proposals and updates for donors and other international organisations. Topics of focus included training domestic election observers, advocacy for more transparent campaign finance, civic and voter education campaigns and media monitoring. \n\n- Conducted needs assessment mission to Myanmar, interviewing politicians, international institutions and civil society to make recommendations on support needs, as part of ERIS' collaboration with the Carter Center and Democracy Reporting International. \n\n- Prepared proposals for European Union funded programmes, winning bids worth a total of €400,000, and project managed several European Commission projects worth a total of €450,000. \nDuties included contributing to the technical and financial offer (including preparing budgets), recruiting and liaising with experts, project management; backstopping; preparing contracts; financial monitoring, negotiating workplan amendments and budget reallocations with the European Union, monitoring project outputs for quality and adherence to workplan.,
+      "summary": "Project-manager and researcher on initiatives supporting democratic institutions and culture in south and south-east Asia. \n\n- Designed and/or managed election-monitoring and anti-corruption projects in Rwanda, Bolivia and Myanmar together with local civil society organisations , with budgets totalling more than €450,000. Wrote successful bids worth €400,000 from EU Commission, UK Foreign and Commonwealth Office (FCO) and DFID.\n\n- Monitored political developments in Asia (with an emphasis on Myanmar, Bangladesh and Pakistan) and prepared briefing notes, detailed project proposals and updates for donors and other international organisations. Topics of focus included training domestic election observers, advocacy for more transparent campaign finance, civic and voter education campaigns and media monitoring. \n\n- Prepared proposals for European Union funded programmes, winning bids worth a total of €400,000, and project managed several European Commission projects worth a total of €450,000.",
       "website": "https://web.archive.org/web/20201021205516/http://www.eris.org.uk/"
     },
     {
@@ -159,7 +150,7 @@
   "education": [
     {
       "institution": "King's College London, University of London",
-      "area": "World History",
+      "area": "Imperial History",
       "studyType": "MA",
       "startDate": "2009-12-31",
       "endDate": "2010-12-31", 
