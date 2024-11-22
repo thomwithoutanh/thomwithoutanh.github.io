@@ -17,9 +17,7 @@ featured: true
 
 <!--author-->
 
-I research complex and opaque systems, and how they affect people and the environment.
-
-I specialise in work focused on transparency and accountability, particularly related to climate, forests, and human rights. I'm also interested in how civil society organisations can use technology effectively. 
+I'm a researcher and project manager specialising in transparency and accountability, particularly related to climate, forests, and human rights. I'm also interested in how civil society organisations can use technology effectively. 
 
 Over the last ten years, I've worked in more than 22 countries, and interviewed people from over 300 organisations. Here are some projects I've worked on:
 
