@@ -14,7 +14,6 @@ I'm a project manager and researcher focused on corruption, climate and corporat
 
 ## My background
 
-I've worked with:
-[International Committee of the Red Cross](https://www.icrc.org/), [Oxfam](https://www.oxfam.org/en), [CIVICUS](https://civicus.org/), [Amnesty International](https://www.amnesty.org/en/tech/), [Open Society Foundations](https://www.justiceinitiative.org/), [Hivos](https://hivos.org/), [Rainforest Foundation Norway](http://www.regnskog.no/en/), [Global Witness](https://www.globalwitness.org/en/), and many more.
+I've worked or collaborated with organisations from 27 countries, from international organisations like Oxfam, CIVICUS, Open Society Foundations and Rainforest Foundation Norway to many national-level civil society organisations in countries from Myanmar to Kenya.
 
-Here are some [projects I've worked on](/projects){:target="_blank"}, and a [full CV](/resume)
+Here are some [projects I've worked on](/projects){:target="_blank"}.
