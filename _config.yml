@@ -24,10 +24,10 @@ title:                 Tom Walker
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           "Investigative researcher"
+description:           "Investigative researcher & project manager"
  
 # A shorter description for the sidebar.
-tagline:               Investigative researcher and writer
+tagline:               Investigative researcher, facilitator and project manager
 
 # A list of keywords for your blog
 keywords:              []
@@ -59,7 +59,7 @@ menu:
 #   url:               /LICENSE/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:              Original content licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+copyright:              Built using <a href="https://hydejack.com/">Hydejack</a> and <a href="https://github.com/">GitHub Pages</a> Original content licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
