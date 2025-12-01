@@ -8,7 +8,7 @@ Tom:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I'm a researcher, project manager, journalist and facilitator. 
+    I'm a researcher, writer and project manager. 
 
   # This photo will be used in the about section
   picture:
@@ -23,7 +23,7 @@ Tom:
   # Rearrange to change the order in which they appear
   social:
     email:           hello@tomwalker.fyi
-    twitter:         thomwithoutanh
+    #twitter:         thomwithoutanh
     github:          thomwithoutanh
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -53,7 +53,7 @@ Tom:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        tpgwalker
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
