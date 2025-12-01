@@ -18,7 +18,7 @@ featured: true
 
 <!--author-->
 
-My work focuses on transparency and accountability, particularly related to climate, forests, and human rights. I have a long-standing interest in how civil society organisations can use technology and data effectively and responsibly. 
+My work focuses on climate, forests, corruption and human rights. I have a long-standing interest in how civil society organisations can use technology and data effectively and responsibly. 
 
 Over the last ten years, I've worked in more than 27 countries, and interviewed people from over 300 organisations. Here are some projects I've worked on:
 

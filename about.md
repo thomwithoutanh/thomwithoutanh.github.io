@@ -8,7 +8,7 @@ sitemap: false
 <!--author-->
 
 
-My work focuses on corruption, environment and climate issues, and corporate accountability.
+My work focuses on environment and climate issues, and corporate accountability.
 {:.lead}
 
 
