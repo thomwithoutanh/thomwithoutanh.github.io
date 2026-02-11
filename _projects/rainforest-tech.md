@@ -25,7 +25,7 @@ Do you work at an organisation that focuses on rainforest issues, land rights an
 
 We asked activists in the Amazon region, central Africa and south-east Asia how they used technology and data. They told us that knowing where to start is often the hardest part. 
 
-So, we created [a primer](https://engn.it/rainforesttech): a guide that shows how rainforest-focused projects are using technology, and suggests how to decide if it’s right for you.
+So, we created [a primer](/assets/publications/Rainforest-tech-primer.pdf): a guide that shows how rainforest-focused projects are using technology, and suggests how to decide if it’s right for you.
 
 * About the primer
 * 🇪🇸 Español
@@ -43,7 +43,7 @@ The primer shows ways in which technology could help your work, highlights some 
 
 It has been structured so that you don’t need to read the whole thing, but can explore sections that are relevant for you. It also points you towards other places where you can find more information in your region or in different languages.
 
-Sound good? [Read the online version here](https://engn.it/rainforesttech)! Or [download the full primer](https://engn.it/rainforesttech) (1.6MB pdf).
+Sound good? [Read the online version here](https://engn.it/rainforesttech)! Or [download the full primer](/assets/publications/Rainforest-tech-primer.pdf) (1.6MB pdf).
 
 [<img src="/assets/img/rainforest-technology.png">](https://engn.it/rainforesttech){:target="_blank"}
 
