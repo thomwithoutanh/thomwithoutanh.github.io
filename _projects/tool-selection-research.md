@@ -51,3 +51,12 @@ It also helps organisations to select appropriate digital tools, and to provide 
 4. Always take it for a test drive: Trial the tool; it highlights problems and raises key questions early on
 5. Plan for failure: Don’t expect to get it right first time; budget time and money to make adjustments.
 6. Stop and reflect on what you’re doing: Keep thinking about what is working, and what isn’t.
+
+## Blogs and talks
+
+* [What we're learning about how transparency and accountability organisations choose tech](https://www.makingallvoicescount.org/blog/learning-organizations-select-ict-tools/) - for Making All Voices Count
+* [Using what we know: How to ensure tech projects meet the brief](https://www.makingallvoicescount.org/blog/using-know-ensure-tech-projects-meet-brief/) - for Making All Voices Count
+* [The Trials, Tribulations, and Triumphs of Choosing an M&E Platform](https://www.ictworks.org/the-trials-tribulations-and-triumphs-of-choosing-an-me-platform/) - for ICTWorks
+* [A talk I gave at the Open and Shut conference](https://www.youtube.com/watch?v=e6xpmGip6gs)
+
+![A talk I gave at the TICTec conference in Barcelona](assets/img/tom-walker-tictec.jpg)
