@@ -33,6 +33,6 @@ Each team conducted in-depth research into the impact of five ongoing or complet
 
 The research teams were:
 
-- Argentina: [Centro de investigaciones para la transformación (CENIT)](http://www.fund-cenit.org.ar/home/), which conducts research in a number of areas related to the economy of innovation and sustainable development, including studies on grassroots innovation, open science and natural resources and innovation
-- Kenya and Tanzania: Elizabeth Maina, Linda Oduor-Noah and Crystal Simeoni, who bring together a range of research experience covering areas including governance, social innovation and culture
-- Nepal: [Local Interventions Group](http://www.localinterventions.org.uk/), which has founded and managed a range of citizen-generated data initiatives in Nepal, often in close collaboration with the government.
+- Argentina: [Centro de investigaciones para la transformación (CENIT)](http://www.fund-cenit.org.ar/home/), which conducts research in a number of areas related to the economy of innovation and sustainable development, including studies on grassroots innovation, open science and natural resources and innovation. [Read their report](/assets/publications/CGD-impact-report-Argentina.pdf)
+- Kenya and Tanzania: Elizabeth Maina, Linda Oduor-Noah and Crystal Simeoni, who bring together a range of research experience covering areas including governance, social innovation and culture. [Read their report](/assets/publications/CGD-impact-report-East-Africa.pdf)
+- Nepal: [Local Interventions Group](http://www.localinterventions.org.uk/), which has founded and managed a range of citizen-generated data initiatives in Nepal, often in close collaboration with the government. [Read their report](/assets/publications/CGD-impact-report-Nepal.pdf)
