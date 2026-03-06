@@ -59,4 +59,4 @@ It also helps organisations to select appropriate digital tools, and to provide 
 * [The Trials, Tribulations, and Triumphs of Choosing an M&E Platform](https://www.ictworks.org/the-trials-tribulations-and-triumphs-of-choosing-an-me-platform/) - for ICTWorks
 * [A talk I gave at the Open and Shut conference](https://www.youtube.com/watch?v=e6xpmGip6gs)
 
-![A talk I gave at the TICTec conference in Barcelona](assets/img/tom-walker-tictec.jpg)
+[<img src="/assets/img/tom-walker-tictec.jpg">](A talk I gave at the TICTec conference in Barcelona){:target="_blank"}
