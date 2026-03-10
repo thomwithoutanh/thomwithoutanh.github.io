@@ -8,25 +8,11 @@
 <meta name="author" content="Tom Walker" />
 <meta property="og:locale" content="en" />
 <meta name="description" content="Researcher and writer" />
-@@ -35,7 +35,7 @@
 <meta property="og:url" content="http://localhost:4000/research/" />
 <meta property="og:site_name" content="Tom Walker" />
-<script type="application/ld+json">
-{"description":"Researcher and writer","author":{"@type":"Person","name":"Tom Walker"},"@type":"WebPage","url":"http://localhost:4000/research/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon.png"},"name":"Tom Walker"},"headline":"Research","@context":"http://schema.org"}</script>
-{"description":"Researcher and writer","author":{"@type":"Person","name":"Tom Walker"},"@type":"WebPage","url":"http://localhost:4000/research/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon.png"},"name":"Tom Walker"},"headline":"Publications","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-
-@@ -182,7 +182,7 @@
-    >
-    <article class="page" role="article">
-  <header>
-    <h1 class="page-title">Research</h1>
-    <h1 class="page-title">Publications</h1>
-
-
-
-@@ -192,19 +192,22 @@ <h1 class="page-title">Research</h1>
+<h1 class="page-title">Research</h1>
 
   </header>
 
