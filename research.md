@@ -14,9 +14,9 @@
 
 <h1 class="page-title">Publications</h1>
 
-<p><ul><a href="/assets/publications/Designing--Facilitating-Remote-Events" target="_blank">Designing and Facilitating Remote Events: A guide</a>, Hivos, 2020. <em>[Lead author]</em></ul></p>
+<p><ul><a href="/assets/publications/Designing--Facilitating-Remote-Events.pdf" target="_blank">Designing and Facilitating Remote Events: A guide</a>, Hivos, 2020. <em>[Lead author]</em></ul></p>
 <p><ul><a href="https://www.theengineroom.org/tech-and-legal-empowerment-around-the-world/" target="_blank">Technology for Legal Empowerment: A Global Review</a>, Open Society Justice Initiative, 2019. <em>[Lead researcher]</em></ul></p>
-<p><ul><a href="/assets/publications/development-initiatives-data-use-briefing" target="_blank">Data Use: A Briefing for Development Initiatives' Strategy Process</a>, Development Initiatives, 2019. <em>[Lead researcher]</em></ul></p>
+<p><ul><a href="/assets/publications/development-initiatives-data-use-briefing.pdf" target="_blank">Data Use: A Briefing for Development Initiatives' Strategy Process</a>, Development Initiatives, 2019. <em>[Lead researcher]</em></ul></p>
 <p><ul><a href="/assets/publications/case-management.pdf" target="_blank">Technology in Case Management for Legal Empowerment</a>, Open Society Justice Initiative, 2018. <em>[Lead researcher]</em></ul></p>
 <p><ul><a href="http://www.ariadne-network.eu/sharing-data-responsibly-conversation-guide-funders/" target="_blank">Sharing Data Responsibly – A Conversation Guide for Funders</a>, <em>helping funders to be transparent about the work they support while making sure that they aren't harming grantees, 2018. [Lead researcher]</em></ul></p>
 <p><ul><a href="https://www.theengineroom.org/socially-responsible-investment-guide/" target="_blank">Rainforest protection and socially responsible investment: A quick-start guide</a>, Rainforest Foundation Norway, 2017. <em>[Lead researcher]</em></ul></p>
