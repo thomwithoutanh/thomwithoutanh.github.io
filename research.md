@@ -14,6 +14,11 @@
 
 <h1 class="page-title">Publications</h1>
 
+
+<p><ul><a href="https://thegeckoproject.org/articles/audit-finds-tiny-percentage-of-palm-oil-companies-sharing-plantations-with-communities/" target="_blank">Audit finds “tiny percentage” of palm oil companies sharing plantations with communities, The Gecko Project<em>[Author]</em></ul></p>
+<p><ul><a href="https://thegeckoproject.org/articles/opinion-in-indonesia-s-plantation-zone-companies-routinely-disregard-the-law-how-do-they-get-away-with-it/" target="_blank">Analysis: How do oil palm companies get away with disregarding Indonesian law?, The Gecko Project and New Mandala<em>[Editor]</em></ul></p>
+<p><ul><a href="https://thegeckoproject.org/articles/promised-prosperity-drowning-in-debt/" target="_blank">Promised prosperity, drowning in debt: How palm oil firms gamed a scheme to lift Indonesians out of poverty</a>, The Gecko Project, BBC Indonesia and Mongabay, 2022. <em>[Researcher and member of reporting team]</em></ul></p>
+<p><ul><a href="https://thegeckoproject.org/articles/the-promise-was-a-lie-how-indonesian-villagers-lost-their-cut-of-the-palm-oil-boom/" target="_blank">‘The promise was a lie’: How Indonesian villagers lost their cut of the palm oil boom</a>, The Gecko Project, BBC Indonesia and Mongabay, 2022. <em>[Researcher and member of reporting team]</em></ul></p>
 <p><ul><a href="/assets/publications/Designing--Facilitating-Remote-Events.pdf" target="_blank">Designing and Facilitating Remote Events: A guide</a>, Hivos, 2020. <em>[Lead author]</em></ul></p>
 <p><ul><a href="https://www.theengineroom.org/tech-and-legal-empowerment-around-the-world/" target="_blank">Technology for Legal Empowerment: A Global Review</a>, Open Society Justice Initiative, 2019. <em>[Lead researcher]</em></ul></p>
 <p><ul><a href="/assets/publications/development-initiatives-data-use-briefing.pdf" target="_blank">Data Use: A Briefing for Development Initiatives' Strategy Process</a>, Development Initiatives, 2019.  <em>[Lead researcher]</em></ul></p>
