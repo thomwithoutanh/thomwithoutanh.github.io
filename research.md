@@ -44,7 +44,7 @@ in human rights</a>, The Engine Room, 2017. <em>[Interviewer] </em></ul></p>
 
 # Talks and interviews
 
-<p><ul><a href="https://www.acebanten.com/konferensi-jurnalisme-data-dan-komputasi-pertama-di-asia-tenggara/" target="_blank">Speaker at Data and Computational Journalism Conference Indonesia, 2022</ul></p>
+<p><ul><a href="https://www.acebanten.com/konferensi-jurnalisme-data-dan-komputasi-pertama-di-asia-tenggara/" target="_blank">Speaker at Data and Computational Journalism Conference Indonesia, 2022</a></ul></p>
 <p><ul><a href="https://web.archive.org/web/20220120040953/https://www.dlapiper.com/~/media/files/insights/events/2019/06/speakers-listing.pdf" target="_blank">Access to Justice and Technology Summit</a>, organized by DLA Piper and PILnet, 2019. <a href="
 https://web.archive.org/web/20201129201158/https://www.dlapiper.com/en/us/insights/events/2019/06/access-to-justice-and-technology-summit/17-june-2019/" target="_blank">(Event details)</a></ul></p>
 <p><ul><a href="https://www.gold.ac.uk/calendar/?id=11362" target="_blank">Speaker at the Reimagining Digital Humanitarianism conference</a>, Goldsmiths University of London, 2018.</ul></p>
