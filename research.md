@@ -14,9 +14,11 @@
 
 <h1 class="page-title">Publications</h1>
 
-<p><ul><a href="https://www.ftm.eu/articles/world-tin-producer-environmental-destruction" target="_blank">Major EU firms source tin from Indonesian company tainted by Corruption</a>, Follow the Money, 2025. <em>[Co-author]</em></ul></p>
+<p><ul><a href="https://www.ftm.eu/articles/world-tin-producer-environmental-destruction" target="_blank">Major EU firms source tin from Indonesian company tainted by corruption</a>, Follow the Money, 2025. <em>[Co-author]</em></ul></p>
 <p><ul><a href="https://thegeckoproject.org/articles/illegal-tin-mining/" target="_blank">The Tin Racket: Illegal mining ransacked these Indonesian islands. Tech titans turned a blind eye.</a>, The Gecko Project, Follow the Money, Korea Centre for Investigative Journalism, Yle, 2025. <em>[Co-author]</em></ul></p>
 <p><ul><a href="https://thegeckoproject.org/articles/insider-testimony-points-to-sustainable-conglomerate-as-hidden-hand-behind-destruction-of-rainforest/" target="_blank">Insider testimony points to “sustainable” conglomerate as hidden hand behind destruction of rainforest</a>, The Gecko Project and Bloomberg News, 2024. <em>[Author]</em></ul></p>
+<p><ul><a href="https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/
+" target="_blank">Critical analytics? Learning from the early adoption of data analytics for local authority service delivery</a>, Ada Lovelace Institute, 2024. <em>[Lead author]</em></ul></p>
 <p><ul><a href="https://thegeckoproject.org/articles/chasing-shadows/" target="_blank">Chasing Shadows: Extensive evidence suggests corporation selling "sustainable" palm oil hid control of companies destroying rainforest.</a> The Gecko Project, International Consortium of Investigative Journalists, El Pais, Suddeutsche Zeitung, Tempo, Follow the Money, De Tijd, NDR and WDR, 2023.<em> [Co-author and member of reporting team]</em></ul></p>
 <p><ul><a href="https://thegeckoproject.org/articles/audit-finds-tiny-percentage-of-palm-oil-companies-sharing-plantations-with-communities/" target="_blank">Audit finds “tiny percentage” of palm oil companies sharing plantations with communities</a>, The Gecko Project, 2023.<em> [Author]</em></ul></p>
 <p><ul><a href="https://thegeckoproject.org/articles/opinion-in-indonesia-s-plantation-zone-companies-routinely-disregard-the-law-how-do-they-get-away-with-it/" target="_blank">Analysis: How do oil palm companies get away with disregarding Indonesian law?</a>, The Gecko Project and New Mandala, 2023. <em>[Editor]</em></ul></p>
