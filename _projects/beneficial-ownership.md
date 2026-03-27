@@ -21,7 +21,7 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-_I led this research project, coordinating a team of researchers, co-writing the final report and presenting findings at the International Anti-Corruption Conference (IACC) in Copenhagen in 2019.
+I led this research project, coordinating a team of researchers, co-writing the final report and presenting findings at the International Anti-Corruption Conference (IACC) in Copenhagen in 2019.
 
 ---
 
