@@ -35,7 +35,7 @@ However, this move towards greater transparency has its critics, with some law f
 
 ## About this project
 
-As research manager at The Engine Room, I led a research project to investigate these concerns in detail,  supported by [OpenOwnership](https://www.openownership.org/) and [The B Team](http://www.bteam.org/). 
+As research lead at The Engine Room, I led a research project to investigate these concerns in detail,  supported by [OpenOwnership](https://www.openownership.org/) and [The B Team](http://www.bteam.org/). 
 
 The resulting report assesses if publishing beneficial ownership data in public registers is lawful, if it is an effective way of tackling the abuse of anonymous companies, and how any potential impacts to privacy can be minimised or mitigated.
 
