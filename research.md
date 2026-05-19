@@ -47,11 +47,27 @@ in human rights</a>, The Engine Room, 2017. <em>[Interviewer] </em></p>
 
 # Talks and interviews
 
+<p>Interviewee, <a href="https://www.offshorealert.com/the-role-of-corruption-secrecy-in-destroying-the-planet-feb-8-ep-4-of-vglobal/" target="_blank">"The Role of Corruption & Secrecy in Destroying the Planet"</a>, Offshore Alert, 2023</p>
 <p>Speaker at <a href="https://www.acebanten.com/konferensi-jurnalisme-data-dan-komputasi-pertama-di-asia-tenggara/" target="_blank">Data and Computational Journalism Conference Indonesia, 2022</a></p>
 <p>Speaker at <a href="https://web.archive.org/web/20220120040953/https://www.dlapiper.com/~/media/files/insights/events/2019/06/speakers-listing.pdf" target="_blank">Access to Justice and Technology Summit</a>, organized by DLA Piper and PILnet, 2019. <a href="
 https://web.archive.org/web/20201129201158/https://www.dlapiper.com/en/us/insights/events/2019/06/access-to-justice-and-technology-summit/17-june-2019/" target="_blank">(Event details)</a></p>
 <p>Speaker at <a href="https://www.gold.ac.uk/calendar/?id=11362" target="_blank">Reimagining Digital Humanitarianism conference</a>, Goldsmiths University of London, 2018.</p>
 <p>Speaker on panel: <a href="https://hosted-files.sched.co/18iacc/a4/Countering-the-backlash%20%2818th%20IACC_Short%20Session%20Report%29.pdf?_gl=1*sc94uu*_gcl_au*MTk0OTM2MjU3OC4xNzcyODMzNjUx" target="_blank">How to Counter the Backlash Against Beneficial Ownership & Public Procurement Transparency in the Age of Fake News & Data Breaches </a>, Global Anti-Corruption Conference, 2018. <a href="
 https://18iacc.sched.com/event/FzmO/how-to-counter-the-backlash-against-transparency-in-the-age-of-fake-news-data-breaches" target="_blank">(Session listing)</a></p>
+<p>Speaker at <a href="https://medium.com/open-and-shut/open-shut-the-conference-5ddb33dfe72d" target="_blank">Open and Shut</a> conference, 2017. Video [here](https://www.youtube.com/watch?v=e6xpmGip6gs)</p>
 <p>Speaker at <a href="https://www.panoplydigital.com/blog/kkzc2jdj8zlsxep-2t4fb-me2m9-webwr-3phkt-ychd8-yjztc" target="_blank">ICT4D London on messaging apps</a>, 2017.</p>
 <p>Interviewee for <a href="https://repository.gchumanrights.org/server/api/core/bitstreams/22caa44a-f94e-43a7-b65f-276e9766c189/content" target="_blank">"A Double-Edged Sword: Benefits and Recommendations for Using Information and Communication Technology to Monitor or Investigate Human Rights</a>, Robin Pierro, European Inter-University Centre for Human Rights and Democratisation, 2016.</p>
+<p>Interviewee for <a href="https://recompilermag.com/2017/05/09/episode-35-interview-with-zara-rahman-and-tom-walker/" target="_blank">The Recompiler podcast, 2016.</p>
+
+
+# Blogs
+
+[https://www.justiceinitiative.org/voices/how-small-data-can-improve-access-justice-poor](How Small Data Can Improve Access to Justice for the Poor), Open Society Justice Initiative (with Matthew Burnett)
+[https://www.makingallvoicescount.org/blog/take-make-research-used-useful-weve-experimenting/](How to make research used and useful - We've been experimenting), Making All Voices Count
+[https://www.ariadne-network.eu/talking-responsible-data-conversation-guide-human-rights-funders/](Talking About Responsible Data: A Conversation Guide For Human Rights Funders), Ariadne (with Fieke Jansen)
+[https://www.ictworks.org/the-trials-tribulations-and-triumphs-of-choosing-an-me-platform/](The Trials, Tribulations, and Triumphs of Choosing an M&E Platform), ICTWorks (with Tania Lee, Tom Walker, Laura Walker McDonald (SIMLab), and Lynnae Day)
+[https://globalanticorruptionblog.com/tag/the-engine-room/](Evaluating the Personal Privacy Objections to Public Beneficial Ownership Registries), Global Anti-Corruption Blog (with Adriana Edmeades-Jones)
+[https://www.360giving.org/2018/02/28/sharing-data-responsibly-how-and-why-do-human-rights-funders-share-data/](Sharing data responsibly – how and why do human rights funders share data?), 360Giving (with Fieke Jansen)
+[https://web.archive.org/web/20160614150411/https://www.theengineroom.org/human-rights-documentation-research-diary-1/](Human Rights Documentation research diary #1), The Engine Room
+[https://web.archive.org/web/20160614170808/https://www.theengineroom.org/human-rights-documentation-research-diary-2/](Human Rights Documentation research diary #2), The Engine Room
+[https://web.archive.org/web/20190825223349/https://www.theengineroom.org/human-rights-documentation-research-diary-3/](Human Rights Documentation research diary #3), The Engine Room
