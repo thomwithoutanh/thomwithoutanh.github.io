@@ -45,7 +45,7 @@ in human rights</a>, The Engine Room, 2017. <em>[Interviewer] </em></p>
 <p><a href="/assets/publications/responsible-data-donors.pdf" target="_blank">Responsible Data in the Donor Community</a>, The Engine Room, 2014. <em>[Co-author]</em></p>
 <p><a href="https://www.theguardian.com/voluntary-sector-network/2014/sep/19/greece-volunteering-politics-charities-europe" target="_blank">The Rise of Greek civil society</a>, The Guardian, 2014. <em>[Co-author]</em></p>
 
-# Talks and interviews
+<h2>Talks and interviews</h2>
 
 <p>Interviewee, <a href="https://www.offshorealert.com/the-role-of-corruption-secrecy-in-destroying-the-planet-feb-8-ep-4-of-vglobal/" target="_blank">"The Role of Corruption & Secrecy in Destroying the Planet"</a>, Offshore Alert, 2023</p>
 <p>Speaker at <a href="https://www.acebanten.com/konferensi-jurnalisme-data-dan-komputasi-pertama-di-asia-tenggara/" target="_blank">Data and Computational Journalism Conference Indonesia, 2022</a></p>
@@ -60,7 +60,7 @@ https://18iacc.sched.com/event/FzmO/how-to-counter-the-backlash-against-transpar
 <p>Interviewee for <a href="https://recompilermag.com/2017/05/09/episode-35-interview-with-zara-rahman-and-tom-walker/" target="_blank">The Recompiler podcast, 2016.</p>
 
 
-# Blogs
+<h2>Blogs</h2>
 
 <p><a href="https://www.justiceinitiative.org/voices/how-small-data-can-improve-access-justice-poor" target="_blank">How Small Data Can Improve Access to Justice for the Poor</a>, Open Society Justice Initiative (with Matthew Burnett)</p>
 
