@@ -62,12 +62,20 @@ https://18iacc.sched.com/event/FzmO/how-to-counter-the-backlash-against-transpar
 
 # Blogs
 
-[https://www.justiceinitiative.org/voices/how-small-data-can-improve-access-justice-poor](How Small Data Can Improve Access to Justice for the Poor), Open Society Justice Initiative (with Matthew Burnett)
-[https://www.makingallvoicescount.org/blog/take-make-research-used-useful-weve-experimenting/](How to make research used and useful - We've been experimenting), Making All Voices Count
-[https://www.ariadne-network.eu/talking-responsible-data-conversation-guide-human-rights-funders/](Talking About Responsible Data: A Conversation Guide For Human Rights Funders), Ariadne (with Fieke Jansen)
-[https://www.ictworks.org/the-trials-tribulations-and-triumphs-of-choosing-an-me-platform/](The Trials, Tribulations, and Triumphs of Choosing an M&E Platform), ICTWorks (with Tania Lee, Tom Walker, Laura Walker McDonald (SIMLab), and Lynnae Day)
-[https://globalanticorruptionblog.com/tag/the-engine-room/](Evaluating the Personal Privacy Objections to Public Beneficial Ownership Registries), Global Anti-Corruption Blog (with Adriana Edmeades-Jones)
-[https://www.360giving.org/2018/02/28/sharing-data-responsibly-how-and-why-do-human-rights-funders-share-data/](Sharing data responsibly – how and why do human rights funders share data?), 360Giving (with Fieke Jansen)
-[https://web.archive.org/web/20160614150411/https://www.theengineroom.org/human-rights-documentation-research-diary-1/](Human Rights Documentation research diary #1), The Engine Room
-[https://web.archive.org/web/20160614170808/https://www.theengineroom.org/human-rights-documentation-research-diary-2/](Human Rights Documentation research diary #2), The Engine Room
-[https://web.archive.org/web/20190825223349/https://www.theengineroom.org/human-rights-documentation-research-diary-3/](Human Rights Documentation research diary #3), The Engine Room
+<a href="https://www.justiceinitiative.org/voices/how-small-data-can-improve-access-justice-poor" target="_blank">How Small Data Can Improve Access to Justice for the Poor</a>, Open Society Justice Initiative (with Matthew Burnett)
+
+<a href="https://www.makingallvoicescount.org/blog/take-make-research-used-useful-weve-experimenting/" target="_blank">How to make research used and useful - We've been experimenting</a>, Making All Voices Count
+
+<a href="https://www.ariadne-network.eu/talking-responsible-data-conversation-guide-human-rights-funders/" target="_blank">Talking About Responsible Data: A Conversation Guide For Human Rights Funders</a>, Ariadne (with Fieke Jansen)
+
+<a href="https://www.ictworks.org/the-trials-tribulations-and-triumphs-of-choosing-an-me-platform/" target="_blank">The Trials, Tribulations, and Triumphs of Choosing an M&amp;E Platform</a>, ICTWorks (with Tania Lee, Tom Walker, Laura Walker McDonald (SIMLab), and Lynnae Day)
+
+<a href="https://globalanticorruptionblog.com/tag/the-engine-room/" target="_blank">Evaluating the Personal Privacy Objections to Public Beneficial Ownership Registries</a>, Global Anti-Corruption Blog (with Adriana Edmeades-Jones)
+
+<a href="https://www.360giving.org/2018/02/28/sharing-data-responsibly-how-and-why-do-human-rights-funders-share-data/" target="_blank">Sharing data responsibly – how and why do human rights funders share data?</a>, 360Giving (with Fieke Jansen)
+
+<a href="https://web.archive.org/web/20160614150411/https://www.theengineroom.org/human-rights-documentation-research-diary-1/" target="_blank">Human Rights Documentation research diary #1</a>, The Engine Room
+
+<a href="https://web.archive.org/web/20160614170808/https://www.theengineroom.org/human-rights-documentation-research-diary-2/" target="_blank">Human Rights Documentation research diary #2</a>, The Engine Room
+
+<a href="https://web.archive.org/web/20190825223349/https://www.theengineroom.org/human-rights-documentation-research-diary-3/" target="_blank">Human Rights Documentation research diary #3</a>, The Engine Room
