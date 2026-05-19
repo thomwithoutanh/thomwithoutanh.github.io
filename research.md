@@ -59,7 +59,8 @@ https://18iacc.sched.com/event/FzmO/how-to-counter-the-backlash-against-transpar
 <p>Interviewee for <a href="https://repository.gchumanrights.org/server/api/core/bitstreams/22caa44a-f94e-43a7-b65f-276e9766c189/content" target="_blank">"A Double-Edged Sword: Benefits and Recommendations for Using Information and Communication Technology to Monitor or Investigate Human Rights</a>, Robin Pierro, European Inter-University Centre for Human Rights and Democratisation, 2016.</p>
 <p>Interviewee for <a href="https://recompilermag.com/2017/05/09/episode-35-interview-with-zara-rahman-and-tom-walker/" target="_blank">The Recompiler podcast, 2016.</p>
 
-# Blogs 
+
+# Blogs
 
 <p><a href="https://www.justiceinitiative.org/voices/how-small-data-can-improve-access-justice-poor" target="_blank">How Small Data Can Improve Access to Justice for the Poor</a>, Open Society Justice Initiative (with Matthew Burnett)</p>
 
