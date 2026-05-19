@@ -57,7 +57,7 @@ https://18iacc.sched.com/event/FzmO/how-to-counter-the-backlash-against-transpar
 <p>Speaker at <a href="https://medium.com/open-and-shut/open-shut-the-conference-5ddb33dfe72d" target="_blank">Open and Shut</a> conference, 2017. Video [here](https://www.youtube.com/watch?v=e6xpmGip6gs)</p>
 <p>Speaker at <a href="https://www.panoplydigital.com/blog/kkzc2jdj8zlsxep-2t4fb-me2m9-webwr-3phkt-ychd8-yjztc" target="_blank">ICT4D London on messaging apps</a>, 2017.</p>
 <p>Interviewee for <a href="https://repository.gchumanrights.org/server/api/core/bitstreams/22caa44a-f94e-43a7-b65f-276e9766c189/content" target="_blank">"A Double-Edged Sword: Benefits and Recommendations for Using Information and Communication Technology to Monitor or Investigate Human Rights</a>, Robin Pierro, European Inter-University Centre for Human Rights and Democratisation, 2016.</p>
-<p>Interviewee for <a href="https://recompilermag.com/2017/05/09/episode-35-interview-with-zara-rahman-and-tom-walker/" target="_blank">The Recompiler podcast, 2016.</p>
+<p>Interviewee for <a href="https://recompilermag.com/2017/05/09/episode-35-interview-with-zara-rahman-and-tom-walker/" target="_blank">The Recompiler podcast, 2016.</a></p>
 
 
 <h2>Blogs</h2>
