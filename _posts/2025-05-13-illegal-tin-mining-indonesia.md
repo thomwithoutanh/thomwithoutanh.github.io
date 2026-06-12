@@ -7,20 +7,17 @@ description: >
 date: 13 May 2025
 categories: [investigations]
 tags: 
-# TODO: Add a lead image at the path below, then uncomment this block.
-# Suggested: Nanang Sujana's aerial drone shot of abandoned mining pits filled with
-# blue-green water — the strongest visual of the series.
-# image:
-#   path: /assets/img/blog/tin-mining.jpg
-#   srcset:
-#     1920w: /assets/img/blog/tin-mining.jpg
-#     960w:  /assets/img/blog/tin-mining.jpg
-#     480w:  /assets/img/blog/tin-mining.jpg
+image:
+   path: /assets/img/drone-mining-pits-green-photo.jpg
+   srcset:
+     1920w: /assets/img/drone-mining-pits-green-photo.jpg
+     960w:  /assets/img/drone-mining-pits-green-photo.jpg
+     480w:  /assets/img/drone-mining-pits-green-photo.jpg
 accent_color: '#4fb1ba'
 theme_color: '#193747'
 ---
 
-_I reported this investigation with Shabrina at The Gecko Project, co-published with Follow The Money, Finnish broadcaster Yle and KCIJ Newstapa._
+_I reported this investigation with Shabrina at The Gecko Project, and coordinated a collaboration and joint publication with Follow The Money (Netherlands), Finnish public broadcaster Yle and KCIJ Newstapa (Korea)._
 
 ***
 
