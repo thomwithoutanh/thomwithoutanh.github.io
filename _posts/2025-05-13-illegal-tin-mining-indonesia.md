@@ -5,8 +5,8 @@ description: >
   An investigation into illegal tin mining in Bangka Belitung, tracing illegally mined tin
   from devastated landscapes into the supply chains of the world's biggest tech companies.
 date: 13 May 2025
-categories: [investigations]
-tags: [mining, indonesia, supply-chains]
+categories: 
+tags: 
 # TODO: Add a lead image at the path below, then uncomment this block.
 # Suggested: Nanang Sujana's aerial drone shot of abandoned mining pits filled with
 # blue-green water — the strongest visual of the series.
