@@ -279,11 +279,11 @@ hydejack:
 collections:
   featured_categories:
     permalink:         /blog/:name/
-    output:            true
+    output:            false
 
   featured_tags:
     permalink:         /tag-:name/
-    output:            true
+    output:            false
 
   projects:
     permalink:         /projects/:path/
