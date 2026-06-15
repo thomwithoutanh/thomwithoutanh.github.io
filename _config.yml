@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://tomwalker.fyi
 repository: thomwithoutanh/thomwithoutanh.github.io
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -24,10 +24,10 @@ title:                 Tom Walker
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           "Researcher & project manager"
+description:           "Research on corruption, environment and tech"
  
 # A shorter description for the sidebar.
-tagline:               Researcher and project manager
+tagline:               Research on corruption, environment and tech
 
 # A list of keywords for your blog
 keywords:              []
@@ -47,10 +47,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /about/
-  - title:             Work
-    url:               /projects/
+  - title:             About Me
+    url:               /
+#  - title:             Portfolio
+#    url:               /projects/
   - title:             Publications
     url:               /research/
  
@@ -64,7 +64,7 @@ menu:
 copyright:              Original content licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
 
 # Format of the permalinks
-permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /blog/:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
@@ -180,10 +180,10 @@ kramdown:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random, comments]
+  post_addons:         [about, related, comments]
 
   # Configure the order of complementary content on project pages
-  project_addons:      [about, newsletter, other, comments]
+  project_addons:      [about, other, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
   no_mark_external:    true
@@ -322,6 +322,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-target-blank
 
 
 # SEO Tag

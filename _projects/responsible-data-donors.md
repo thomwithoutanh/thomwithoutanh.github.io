@@ -36,4 +36,4 @@ This research represents a preliminary effort to understand what role the fundin
 
 Nevertheless, we believe that the issues raised in the interviews could provide a useful starting point for considering donors’ roles and responsibilities in managing data and promoting responsible data practices – and suggesting ways to continue improvements.
 
-<p style="padding-left: 30px;"><a href="/assets/publications/responsible-data-donors.pdf" target="_blank>"><img src="/assets/img/responsible-data-donors.png" alt="responsible-data-donors" height="300" width="220"></a></p>
+<p style="padding-left: 30px;"><a href="/assets/publications/responsible-data-donors.pdf" target="_blank"><img src="/assets/img/responsible-data-donors.png" alt="responsible-data-donors" height="300" width="220"></a></p>

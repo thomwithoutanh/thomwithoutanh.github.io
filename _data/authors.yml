@@ -8,8 +8,9 @@ Tom:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Researcher and project manager specialising in data, technology, human rights, and environmental issues.
+    I'm an independent researcher and investigative journalist specialising in the environment, corporate accountability, human rights and technology. 
 
+    I help non-profits, media and policy organisations analyse complex or opaque systems, and how they affect people and the environment.
   # This photo will be used in the about section
   picture:
     path:            /assets/img/tomw.jpg

@@ -1,0 +1,47 @@
+# Tom Walker
+
+> Tom Walker is a researcher, project manager and investigative journalist whose work focuses on the environment, climate, and corporate accountability. He has worked with organisations from 27 countries — from international bodies such as the BBC, ICIJ, Oxfam, the Open Society Foundations, the ICRC and Rainforest Foundation Norway to national civil society organisations from Myanmar to Kenya. This site (tomwalker.fyi) is his portfolio, covering investigative journalism, research reports and practical guides.
+
+Notes for navigation:
+- The **Investigations** (blog) section showcases in-depth investigative journalism, primarily on environmental and corporate-accountability stories in Indonesia.
+- The **Projects** section collects research studies, scoping reports and practical guides produced for civil society and international organisations.
+- The **Publications** page is the fullest list of Tom's published work, including reports, talks, interviews and blogs, with credits indicating his role on each.
+
+## Investigations (blog)
+
+- [The promise was a lie: how Indonesian villagers lost their cut of the palm oil boom](https://tomwalker.fyi/blog/palm-oil-smallholders/): Award-winning investigation with BBC News and Mongabay into Indonesia's "plasma" profit-sharing scheme, finding companies withheld hundreds of thousands of hectares and billions of dollars from communities. Prompted a national government audit and won the 2023 TRACE Prize.
+- [Chasing shadows: the anonymous companies destroying Indonesia's rainforests](https://tomwalker.fyi/blog/shadow-companies-deforestation/): A series with ICIJ, Bloomberg News and Agence France-Presse exposing how major conglomerates allegedly used anonymously owned offshore "shadow companies" to clear rainforest while pledging zero deforestation. Led eight brands to suspend a supplier and fed UK debate on corporate transparency.
+- [The tin racket: how illegal mining devastated Indonesia's tin islands](https://tomwalker.fyi/blog/illegal-tin-mining-indonesia/): Investigation with Follow The Money, Yle and KCIJ Newstapa tracing illegally mined tin from Bangka Belitung into the supply chains of major tech companies, exposing failures in state producer PT Timah and minerals-audit systems.
+
+## Pages
+
+- [About](https://tomwalker.fyi/about/): Tom's background and the focus of his work on environment, climate and corporate accountability.
+- [Projects](https://tomwalker.fyi/projects/): Highlights of research, scoping studies, evaluations and practical guides.
+- [Publications](https://tomwalker.fyi/research/): Comprehensive list of published reports, investigations, talks, interviews and blogs, with role credits.
+
+## Projects
+
+- [Technology for monitoring rainforests and rights for forest peoples: A primer](https://tomwalker.fyi/projects/rainforest-tech/)
+- [Technology for Legal Empowerment: A Global Review](https://tomwalker.fyi/projects/legal-empowerment/)
+- [Choosing technology in Kenyan and South African transparency and accountability initiatives](https://tomwalker.fyi/projects/tool-selection-research/)
+- [Humanitarian Futures for Messaging Apps](https://tomwalker.fyi/projects/messaging-apps/)
+- [Rainforest protection and socially responsible investment: A quick-start guide](https://tomwalker.fyi/projects/rainforest-responsible-investment/)
+- [The impact of citizen-generated data in Nepal, Argentina and East Africa](https://tomwalker.fyi/projects/citizen-generated-data/)
+- [Privacy or Public Interest? Making the Case for Public Information on Company Ownership](https://tomwalker.fyi/projects/beneficial-ownership/)
+- [The Oxfam Responsible Data policy in practice, two years on](https://tomwalker.fyi/projects/oxfam-responsible-data/)
+- [Responsible data in the donor community](https://tomwalker.fyi/projects/responsible-data-donors/)
+- [A Movements perspective on transparency and accountability](https://tomwalker.fyi/projects/social-movements-transparency/)
+
+## Selected external publications
+
+- [The Tin Racket](https://thegeckoproject.org/articles/illegal-tin-mining/): The Gecko Project, Follow the Money, KCIJ Newstapa, Yle, 2025 (co-author).
+- [Insider testimony points to "sustainable" conglomerate as hidden hand behind destruction of rainforest](https://thegeckoproject.org/articles/insider-testimony-points-to-sustainable-conglomerate-as-hidden-hand-behind-destruction-of-rainforest/): The Gecko Project and Bloomberg News, 2024 (author).
+- [Chasing Shadows](https://thegeckoproject.org/articles/chasing-shadows/): The Gecko Project, ICIJ, El País, Süddeutsche Zeitung, Tempo, Follow the Money, De Tijd, NDR and WDR, 2023 (co-author and reporting team).
+- ['The promise was a lie': How Indonesian villagers lost their cut of the palm oil boom](https://thegeckoproject.org/articles/the-promise-was-a-lie-how-indonesian-villagers-lost-their-cut-of-the-palm-oil-boom/): The Gecko Project, BBC and Mongabay, 2022 (researcher and reporting team).
+- [Critical analytics? Learning from the early adoption of data analytics for local authority service delivery](https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/): Ada Lovelace Institute, 2024 (research project manager and author).
+
+## Contact
+
+- Email: hello@tomwalker.fyi
+- [Twitter/X](https://twitter.com/thomwithoutanh)
+- [GitHub](https://github.com/thomwithoutanh)

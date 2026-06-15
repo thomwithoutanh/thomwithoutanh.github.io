@@ -47,4 +47,4 @@ Here’s an extract from the report explaining how the process usually works –
 A flow-chart setting out the SRI decision-making process.
 
 
-<p style="padding-left: 30px;"><a href="https://www.theengineroom.org/socially-responsible-investment-guide/" target="_blank>"><img src="/assets/img/rainforest-responsible-investment.png" alt="rainforest-investment" height="400" width="300"></a>
+<p style="padding-left: 30px;"><a href="https://www.theengineroom.org/socially-responsible-investment-guide/" target="_blank"><img src="/assets/img/rainforest-responsible-investment.png" alt="rainforest-investment" height="400" width="300"></a>
