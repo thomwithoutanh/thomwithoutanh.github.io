@@ -14,7 +14,7 @@
         </p>
       {% endif %}
       <h3 class="h4 faded" property="award">
-        {% capture title %}<span class="bc">{{ awa.title }}</span>{% endcapture %}
+        {% capture title %}{% include components/link.html title=awa.title href=awa.website span_class="bc" %}{% endcapture %}
         {% capture awarder %}<span class="bc">{{ awa.awarder }}</span>{% endcapture %}
         {{ strings.resume.awards_title
           | default:"<!--title--> from <!--awarder-->"
