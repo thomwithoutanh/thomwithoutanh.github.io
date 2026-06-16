@@ -21,11 +21,7 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-* Background
-* The report
-* Read
-* How to use this report
-* Feedback
+* toc
 {:toc}
 
 Legal empowerment is about grassroots justice — ensuring that law is not confined to books or courtrooms but is available and meaningful to ordinary people.

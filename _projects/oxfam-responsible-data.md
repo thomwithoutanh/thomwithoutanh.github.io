@@ -35,11 +35,11 @@ I reviewed [responsible data resources created by Oxfam](http://policy-practice.
 
 ### Identifying challenges 
 
-<span style="font-weight: 400;">We identified the challenges that Oxfam is facing in implementing the Responsible Data policy, and listed a number of recommendations.</span> 
+We identified the challenges that Oxfam is facing in implementing the Responsible Data policy, and listed a number of recommendations. 
 
->‘Thanks to the Responsible Data Policy, our data collection framework was very well structured and systematic. Now we have become much more alert, on several fronts: for the in-depth process, how this is being handled, the access to the data, the confidentiality agreement.’</span>
+>‘Thanks to the Responsible Data Policy, our data collection framework was very well structured and systematic. Now we have become much more alert, on several fronts: for the in-depth process, how this is being handled, the access to the data, the confidentiality agreement.’
+>
+>– An interviewee and Oxfam staff member
 
-<span style="font-weight: 400;">– </span><span style="font-weight: 400;">An interviewee and Oxfam staff member</span><span style="font-weight: 400;">
-
-We [compiled all our findings in a report](https://www.theengineroom.org/announcing-our-new-research-on-responsible-data-implementation-at-oxfam/), which is available freely online. Although the recommendations are specific to Oxfam’s context, we hope that other organisations will also be able to take away ideas, and find inspiration in Oxfam’s commitment to responsible data.</span>
+We [compiled all our findings in a report](https://www.theengineroom.org/announcing-our-new-research-on-responsible-data-implementation-at-oxfam/), which is available freely online. Although the recommendations are specific to Oxfam’s context, we hope that other organisations will also be able to take away ideas, and find inspiration in Oxfam’s commitment to responsible data.
 
