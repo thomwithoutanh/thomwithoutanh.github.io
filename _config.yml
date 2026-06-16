@@ -47,12 +47,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About Me
-    url:               /
+  - title:             Research
+    url:               /#deep-dive-research-for-policy-and-practice
+  - title:             Investigations
+    url:               /#investigative-research
+  - title:             Work with me
+    url:               /#work-with-me
 #  - title:             Portfolio
 #    url:               /projects/
-  - title:             Publications
-    url:               /research/
+  - title:             CV
+    url:               /resume
  
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
