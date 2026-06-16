@@ -29,10 +29,10 @@ _I commissioned, edited and produced three research reports by in-country resear
 
 Three research teams based in the DataShift’s pilot locations – Argentina, East Africa (Tanzania and Kenya) and Nepal – looked deeper into the impact of citizen-generated data initiatives in their own countries. 
 
-Each team conducted in-depth research into the impact of five ongoing or completed citizen-generated data initiatives that address issues relevant to the Sustainable Development Goals. They’re examining how initiatives’ data has been used by others; how projects check the quality of their data, whether the initiative is likely to last in the long term; and how the data is received at the local level.
+Each team conducted in-depth research into the impact of five ongoing or completed citizen-generated data initiatives that address issues relevant to the Sustainable Development Goals. They examined how initiatives’ data has been used by others; how projects check the quality of their data; whether the initiative is likely to last in the long term; and how the data is received at the local level.
 
 The research teams were:
 
 - Argentina: [Centro de investigaciones para la transformación (CENIT)](http://www.fund-cenit.org.ar/home/), which conducts research in a number of areas related to the economy of innovation and sustainable development, including studies on grassroots innovation, open science and natural resources and innovation. [Read their report](/assets/publications/CGD-impact-report-Argentina.pdf)
-- Kenya and Tanzania: Elizabeth Maina, Linda Oduor-Noah and Crystal Simeoni, who bring together a range of research experience covering areas including governance, social innovation and culture. [Read their report](/assets/publications/CGD-impact-report-East-Africa.pdf)
+- Kenya and Tanzania: Elizabeth Maina, Linda Oduor-Noah and Crystal Simeoni, who bring together a range of research experience covering areas including governance, social innovation and culture. [Read their report](/assets/publications/CGD-impact-report-EastAfrica.pdf)
 - Nepal: [Local Interventions Group](http://www.localinterventions.org.uk/), which has founded and managed a range of citizen-generated data initiatives in Nepal, often in close collaboration with the government. [Read their report](/assets/publications/CGD-impact-report-Nepal.pdf)

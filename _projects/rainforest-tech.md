@@ -131,9 +131,9 @@ Entre em contato conosco se você tiver um projeto semelhante e quiser suporte p
 
 **Panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat**
 
-Rainforest Foundation Norway dan The Engine Room telah bekerja sama untuk menciptakan panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat. Pengantar ini adalah produk kemitraan antara
+Rainforest Foundation Norway dan The Engine Room telah bekerja sama untuk menciptakan panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat.
 
-La dirancang sebagai titik awal bagi organisasi atau para aktivis yang tertarik menggunakan teknologi untuk meningkatkan kerja advokasi mereka, namun ia juga bermanfaat bagi organisasi yang telah memiliki pengalaman menggunakan teknologi dan ingin tahu bagaimana meningkatkan dampak dari pekerjaan mereka.
+Panduan ini dirancang sebagai titik awal bagi organisasi atau para aktivis yang tertarik menggunakan teknologi untuk meningkatkan kerja advokasi mereka, namun ia juga bermanfaat bagi organisasi yang telah memiliki pengalaman menggunakan teknologi dan ingin tahu bagaimana meningkatkan dampak dari pekerjaan mereka.
 
 Panduan ini:
 

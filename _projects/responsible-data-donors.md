@@ -32,7 +32,7 @@ It presents donors’ perspectives on usage, and makes proposals for next steps.
 
 ### Limitations
 
-This research represents a preliminary effort to understand what role the funding community could play to support more responsible data practices among their grantees and, more generally, to contribute to safer and more efficient programming. Subsequent collaboration with the donor community and other international groups have informed analysis of these interviews, which were conducted in 2013 and 2014. Significant developments in awareness and resources that have taken place since the interviews were conducted, and some interviewees emphasised that funders have since begun to build their capacity and have more frequent, open discussions on the subject. 
+This research represents a preliminary effort to understand what role the funding community could play to support more responsible data practices among their grantees and, more generally, to contribute to safer and more efficient programming. Subsequent collaboration with the donor community and other international groups have informed analysis of these interviews, which were conducted in 2013 and 2014. Significant developments in awareness and resources have taken place since the interviews were conducted, and some interviewees emphasised that funders have since begun to build their capacity and have more frequent, open discussions on the subject. 
 
 Nevertheless, we believe that the issues raised in the interviews could provide a useful starting point for considering donors’ roles and responsibilities in managing data and promoting responsible data practices – and suggesting ways to continue improvements.
 

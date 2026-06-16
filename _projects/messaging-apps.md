@@ -23,7 +23,7 @@ To do so, I:
 
 - conducted interviews and desk research
 - coordinated a team of researchers and an advisory group from staff from the International Federation of Red Cross and Red Crescent Societies (IFRC), the UN High Commissioner for Refugees (UNHCR), the UN Office for the Coordination of Humanitarian Affairs (UNOCHA), and the World Food Programme (WFP)
-- coordinated communications activities including an animated explainer video produced by the agency Kurzegesagt.
+- coordinated communications activities including an animated explainer video produced by the agency Kurzgesagt.
 
 ---
 

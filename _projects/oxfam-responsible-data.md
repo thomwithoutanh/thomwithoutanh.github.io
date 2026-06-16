@@ -3,7 +3,7 @@ layout: project
 title: 'The Oxfam Responsible Data policy in practice, two years on'
 caption: Researcher - _Oxfam_
 description: >
-  Researcher on this project examing how Oxfam’s Responsible Data policy is being translated into practice.
+  Researcher on this project examining how Oxfam’s Responsible Data policy is being translated into practice.
 date: '16-01-2018'
 image: 
   path: /assets/img/oxfam-responsible-data-pic.png

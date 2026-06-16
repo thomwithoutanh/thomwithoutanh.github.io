@@ -45,7 +45,7 @@ It also helps organisations to select appropriate digital tools, and to provide 
 
 ## 📱 Six basic rules of thumb for organisations using tech to increase transparency
 
-1. Map out what you need to know: At the very least include research on the issue you want to tool to address, the needs to the people you hope will use it and the digital tool options already available.
+1. Map out what you need to know: At the very least include research on the issue you want the tool to address, the needs of the people you hope will use it, and the digital tool options already available.
 2. Think twice before you build: Look for existing tools that can do the job; building new technologies from scratch is complex and risky.
 3. Get a second opinion: Someone else has probably tried a similar approach before you.
 4. Always take it for a test drive: Trial the tool; it highlights problems and raises key questions early on
@@ -59,4 +59,4 @@ It also helps organisations to select appropriate digital tools, and to provide 
 * [The Trials, Tribulations, and Triumphs of Choosing an M&E Platform](https://www.ictworks.org/the-trials-tribulations-and-triumphs-of-choosing-an-me-platform/) - for ICTWorks
 * [A talk I gave at the Open and Shut conference](https://www.youtube.com/watch?v=e6xpmGip6gs)
 
-[<img src="/assets/img/tom-walker-tictec.jpg">](A talk I gave at the TICTec conference in Barcelona){:target="_blank"}
+![A talk I gave at the TICTec conference in Barcelona](/assets/img/tom-walker-tictec.jpg)

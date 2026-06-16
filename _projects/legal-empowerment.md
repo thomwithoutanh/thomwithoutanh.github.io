@@ -41,7 +41,7 @@ However, we don’t know enough about all the ways that technology is being used
 
 I worked with the [Open Society Justice Initiative](https://www.opensocietyfoundations.org/who-we-are/programs/open-society-justice-initiative) to research how legal empowerment actors worldwide are using technology to give people information about the law, connect them with legal advice, and provide them with legal services. 
 
-I led the research project, presenting it at 
+I led the research project, presenting the findings at an international conference. 
 
 The full report is available for download, and you can read a summary online-first version of the report in [The Engine Room’s library](https://library.theengineroom.org/).
 
@@ -60,7 +60,7 @@ We created this report for:
 *   Governments interested in the role of technology to increase access to the law, courts, and legal assistance
 *   Funders looking to better serve their grantees
 
-We’re conscious that long reports might not be the best way for the busy people to digest our research. So, we’re also sharing our findings through the Propeller Series. The Propeller Series is an email digest where we share key findings that land in your inbox once a week for six weeks from the day you sign up.  
+We’re conscious that long reports might not be the best way for busy people to digest our research. So, we’re also sharing our findings through the Propeller Series. The Propeller Series is an email digest where we share key findings that land in your inbox once a week for six weeks from the day you sign up.  
 
 [Sign up here to receive the digest at any time.](http://eepurl.com/gfvhBv)
 
@@ -80,4 +80,4 @@ Here's a collection of comments on the report.
 
 [<img src="/assets/img/tweets/legal-empowerment-tweet-7.png">](https://twitter.com/N_Map/status/1009467208836222976){:target="_blank"}
 
-[<img src="/assets/img/tweets/legal-empowerment-tweet.png">](http://127.0.0.1:4000/assets/img/tweets/legal-empowerment-tweet.png){:target="_blank"}
+[<img src="/assets/img/tweets/legal-empowerment-tweet.png">](/assets/img/tweets/legal-empowerment-tweet.png){:target="_blank"}

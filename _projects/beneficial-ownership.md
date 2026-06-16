@@ -31,7 +31,7 @@ As a result, international bodies like the OECD, G20 and EU, and leading governm
 
 ## Privacy concerns
 
-However, this move towards greater transparency has its critics, with some law firms and business advocates arguing that the publishing the names of beneficial owners risks violating data protection laws and individual privacy. But there is a significant risk that concerns about data protection and privacy may be overblown.
+However, this move towards greater transparency has its critics, with some law firms and business advocates arguing that publishing the names of beneficial owners risks violating data protection laws and individual privacy. But there is a significant risk that concerns about data protection and privacy may be overblown.
 
 ## About this project
 
