@@ -39,5 +39,9 @@ I investigate corporate wrongdoing, environmental harm and financial secrecy. I'
 I've worked on investigations that have been published in collaboration with media including the BBC, ICIJ, Bloomberg, El País and Follow The Money. Stories I've reported on have [won awards](https://mongabay.org/impact/how-an-award-winning-investigation-led-to-greater-accountability-in-indonesias-palm-oil-sector-mongabay-impacts/), led major brands to [drop suppliers](https://thegeckoproject.org/articles/brands-drop-first-resources-in-response-to-investigation-by-the-gecko-project/), and fed into [policy debates](https://thegeckoproject.org/articles/rainforest-destroying-shadow-companies-in-spotlight-as-tax-havens-pressured-on-corporate-transparency/) on corporate transparency.
 <!--posts-->
 
+## Civil society technology
 
-I've also spent the last 13 years helping civil society organisations use technology and data effectively. [Get in touch](mailto:hello@tomwalker.fyi) if you're interested in working together.
+I've also spent the last 13 years helping civil society organisations use technology and data effectively. I conduct user research. Previously, I've completed research for human rights documentation initiatives and [Weblate](https://draftlab.org/projects/weblate/), the open source localisation platform powering much of the world's free software. I work regularly with [Draftlab](https://draftlab.org/), a design and technology studio that works with civil society organisations, humanitarians, open tech projects, and multi-stakeholder initiatives. 
+
+## Work with me 
+[Get in touch](mailto:hello@tomwalker.fyi) if you're interested in working together.
