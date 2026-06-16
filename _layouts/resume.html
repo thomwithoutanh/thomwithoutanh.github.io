@@ -58,7 +58,7 @@ layout: base
   <div class="columns {% unless no_third_column %}columns-break{% endunless %}">
     {% assign l_col = page.left_column %}
     {% assign r_col = page.right_column %}
-    {% unless l_col %}{% assign l_col = 'work,volunteer,education,awards,publications,references' | split:',' %}{% endunless %}
+    {% unless l_col %}{% assign l_col = 'work,volunteer,education,awards,publications,talks,blogs,references' | split:',' %}{% endunless %}
     {% unless r_col %}{% assign r_col = 'languages,skills,interests' | split:',' %}{% endunless %}
 
     <div class="column column-3-5">
@@ -74,6 +74,10 @@ layout: base
           {% include pro/resume/awards.html %}
         {% when 'publications' %}
           {% include pro/resume/publications.html %}
+        {% when 'talks' %}
+          {% include pro/resume/talks.html %}
+        {% when 'blogs' %}
+          {% include pro/resume/blogs.html %}
         {% when 'references' %}
           {% include pro/resume/references.html %}
         {% when 'languages' %}
@@ -99,6 +103,10 @@ layout: base
           {% include pro/resume/awards.html %}
         {% when 'publications' %}
           {% include pro/resume/publications.html %}
+        {% when 'talks' %}
+          {% include pro/resume/talks.html %}
+        {% when 'blogs' %}
+          {% include pro/resume/blogs.html %}
         {% when 'references' %}
           {% include pro/resume/references.html %}
         {% when 'languages' %}

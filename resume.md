@@ -9,6 +9,8 @@ left_column:
   - work
   - awards
   - publications
+  - talks
+  - blogs
   - references
 right_column:
   - education

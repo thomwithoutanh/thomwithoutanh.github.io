@@ -14,17 +14,9 @@
         </p>
       {% endif %}
       <h3 class="h4 faded">
-        {% capture name %}{% include components/link.html title=pub.name href=pub.website span_class="bc" %}{% endcapture %}
-        {% capture publisher %}<span class="bc">{{ pub.publisher }}</span>{% endcapture %}
-        {{ strings.resume.publications_title
-          | default:"<!--name--> by <!--publisher-->"
-          | replace:"<!--name-->", name
-          | replace:"<!--publisher-->", publisher
-        }}
+        {% include components/link.html title=pub.name href=pub.website span_class="bc" %}{% if pub.publisher.size > 0 %} by <span class="bc">{{ pub.publisher }}</span>{% endif %}{% if pub.summary.size > 0 %} <span class="bc">[{{ pub.summary }}]</span>{% endif %}
       </h3>
     </header>
-
-    {% include components/message.html class="note" text=pub.summary alt="" %}
   </section>
   {% if forloop.first %}</div>{% endif %}
   {% endfor %}

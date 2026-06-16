@@ -28,7 +28,7 @@ featured: false
 
 I lead research that helps organisations shape policy and improve the way they work. I've managed projects for organisations including Oxfam, the Open Society Foundations, the ICRC, the Ada Lovelace Institute and Rainforest Foundation Norway.
 
-My experience includes qualitative and interview-based research, scoping studies, evaluations, evidence synthesis, and practical guides and toolkits. Here are some highlights:
+My experience includes qualitative research, scoping studies, evidence synthesis, and practical guides. Here are some highlights:
 
 <!--projects--> 
 
@@ -41,7 +41,7 @@ I've worked on investigations that have been published in collaboration with med
 
 ## Civil society technology
 
-I've also spent the last 13 years helping civil society organisations use technology and data effectively. I conduct user research. Previously, I've completed research for human rights documentation initiatives and [Weblate](https://draftlab.org/projects/weblate/), the open source localisation platform powering much of the world's free software. I work regularly with [Draftlab](https://draftlab.org/), a design and technology studio that works with civil society organisations, humanitarians, open tech projects, and multi-stakeholder initiatives. 
+I've also spent the last 13 years helping civil society organisations use technology and data effectively. My skillset includes user research, programme design, participatory workshops and responsible data governance. I've completed user research for multiple human rights documentation initiatives and [Weblate](https://draftlab.org/projects/weblate/), the open source localisation platform powering much of the world's free software. I'm a member of [Draftlab](https://draftlab.org/), a design and technology studio that works with civil society organisations, humanitarians, open tech projects, and multi-stakeholder initiatives, meaning that I can bring in others to design, build or improve tools and systems. 
 
-## Work with me 
-[Get in touch](mailto:hello@tomwalker.fyi) if you're interested in working together.
+## Contact 
+[Get in touch](mailto:hello@tomwalker.fyi) if you'd like to talk about working together. 

@@ -1,0 +1,24 @@
+{% if resume.talks.size > 0 %}
+<section>
+  <div class="npb">
+  <h2 id="talks" class="h3 hr-bottom">
+    {{ strings.resume.talks | default:"Talks and interviews" }}
+    <span class="symbol {{ icons.talks | default:'icon-bubbles' }}"></span>
+  </h2>
+  {% for talk in resume.talks %}
+  <section>
+    <header class="{% unless forloop.first %}mt2{% endunless %}">
+      {% if talk.releaseDate.size > 0 %}
+        <p class="faded">
+          <time datetime="{{ talk.releaseDate | date_to_xmlschema }}">{{ talk.releaseDate | date:from_to_format }}</time>
+        </p>
+      {% endif %}
+      <h3 class="h4 faded">
+        {% include components/link.html title=talk.name href=talk.website span_class="bc" %}{% if talk.publisher.size > 0 %}, <span class="bc">{{ talk.publisher }}</span>{% endif %}{% if talk.summary.size > 0 %} <span class="bc">[{{ talk.summary }}]</span>{% endif %}
+      </h3>
+    </header>
+  </section>
+  {% if forloop.first %}</div>{% endif %}
+  {% endfor %}
+</section>
+{% endif %}

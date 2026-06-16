@@ -1,0 +1,24 @@
+{% if resume.blogs.size > 0 %}
+<section>
+  <div class="npb">
+  <h2 id="blogs" class="h3 hr-bottom">
+    {{ strings.resume.blogs | default:"Blogs" }}
+    <span class="symbol {{ icons.blogs | default:'icon-quill' }}"></span>
+  </h2>
+  {% for blog in resume.blogs %}
+  <section>
+    <header class="{% unless forloop.first %}mt2{% endunless %}">
+      {% if blog.releaseDate.size > 0 %}
+        <p class="faded">
+          <time datetime="{{ blog.releaseDate | date_to_xmlschema }}">{{ blog.releaseDate | date:from_to_format }}</time>
+        </p>
+      {% endif %}
+      <h3 class="h4 faded">
+        {% include components/link.html title=blog.name href=blog.website span_class="bc" %}{% if blog.publisher.size > 0 %}, <span class="bc">{{ blog.publisher }}</span>{% endif %}{% if blog.summary.size > 0 %} <span class="bc">[{{ blog.summary }}]</span>{% endif %}
+      </h3>
+    </header>
+  </section>
+  {% if forloop.first %}</div>{% endif %}
+  {% endfor %}
+</section>
+{% endif %}
