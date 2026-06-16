@@ -49,7 +49,7 @@ author:
 menu:
   - title:             Research
     url:               /#deep-dive-research-for-policy-and-practice
-  - title:             Investigative research
+  - title:             Investigations
     url:               /#investigative-research
   - title:             Get in touch
     url:               /#work-with-me
@@ -65,7 +65,7 @@ menu:
 #   url:               /LICENSE/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:              Original content licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+copyright:              Original content licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Built using [Hydejack](https://github.com/hydecorp/hydejack).
 
 # Format of the permalinks
 permalink:             /blog/:title/
