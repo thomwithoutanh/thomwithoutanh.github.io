@@ -16,11 +16,19 @@ basics:
     region: ""
   profiles: []
 work:
+  - company: "Research & Investigations Officer"
+    position: "Transparency International UK"
+    website: "https://www.transparency.org.uk/"
+    startDate: "2026-08-17"
+    endDate: ""
+    summary: >
+      Consultancy on environment, land and human rights issues, alongside a period of extended
+      parental leave.
   - company: "Self-employed"
     position: "Independent Consultant"
     website: "https://tomwalker.fyi"
     startDate: "2025-07-01"
-    endDate: ""
+    endDate: "2026-08-17"
     summary: >
       Consultancy on environment, land and human rights issues, alongside a period of extended
       parental leave.
