@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Rainforest protection and socially responsible investment: A quick-start guide'
-caption: Lead researcher - _Rainforest Foundation Norway._
+caption: Lead researcher - _Rainforest Foundation Norway_
 description: >
   I led this research project 
 date: 1 Jun 2020

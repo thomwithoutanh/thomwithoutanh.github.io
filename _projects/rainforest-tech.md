@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Technology for monitoring rainforests and rights for forest peoples: A primer'
-caption: Lead researcher - _The Engine Room_
+title: 'Technology for monitoring rainforests and rights for forest peoples'
+caption: Lead researcher - _Rainforest Foundation Norway_
 description: >
   An in-depth practical guide.
 date: 1 Jan 2015
