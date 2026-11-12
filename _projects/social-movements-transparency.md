@@ -23,6 +23,8 @@ Popular mobilizations and social movements have been an important feature of soc
 
 In a three-part series of Think Pieces, we seek to bring some new clarity and insights to thinking about the role of citizen movements in the transparency and accountability space. The first think piece argued that there needs to be further attention paid to the role of popular organizations and movements, and to supporting their efforts around the globe. 
 
+<iframe src="https://tomwalker.fyi/charts/2026-ec-donations-v2.html" style="width: 100%; aspect-ratio: 1 / 1; border: none;" title="Donations accepted by UK political parties in 2026" loading="lazy"> </iframe>
+
 With Mary Joyce, this research piece aimed to unpack the idea of ‘social movements,’ discussing characteristics, tactics, organization and drawing some contrasts with more formal NGOs. The nature of social movements allows them significant flexibility, but can make it difficult for external actors to support them through traditional mechanisms. The final think piece in this series suggests more productive avenues for aiding and strengthening movements.
 
 <p style="padding-left: 30px;"><a href="http://www.transparency-initiative.org/archive/wp-content/uploads/2015/07/Movements_Perspective.pdf"><img src="/assets/img/movements-transparency-accountability.png" alt="movements-transparency-accountability" height="300" width="220"></a></p>
