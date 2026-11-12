@@ -62,7 +62,7 @@ We’re conscious that long reports might not be the best way for busy people to
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; /* 16:9 */">
 <iframe
-  src="https://tomwalker.fyi/charts/2026-ec-donations-v2.html"
+  src="https://tomwalker.fyi/charts/2026-ec-donations-v3.html"
   style="display:block; width:100%; aspect-ratio:1398 / 1158; border:none;"
   title="Donations accepted by UK political parties in 2026"
   loading="lazy">

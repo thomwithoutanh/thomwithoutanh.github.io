@@ -24,7 +24,7 @@ Popular mobilizations and social movements have been an important feature of soc
 In a three-part series of Think Pieces, we seek to bring some new clarity and insights to thinking about the role of citizen movements in the transparency and accountability space. The first think piece argued that there needs to be further attention paid to the role of popular organizations and movements, and to supporting their efforts around the globe. 
 
 <iframe
-  src="https://tomwalker.fyi/charts/2026-ec-donations-v2.html"
+  src="https://tomwalker.fyi/charts/2026-ec-donations-v3.html"
   style="display:block; width:100%; aspect-ratio:1398 / 1158; border:none;"
   title="Donations accepted by UK political parties in 2026"
   loading="lazy">
