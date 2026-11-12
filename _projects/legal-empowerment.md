@@ -60,6 +60,15 @@ We’re conscious that long reports might not be the best way for busy people to
 
 [Sign up here to receive the digest at any time.](http://eepurl.com/gfvhBv)
 
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; /* 16:9 */">
+  <iframe
+  src="https://tomwalker.fyi/charts/2026-ec-donations-v2.html"
+  style="display: block; width: 100%; height: 85vh; border: none;"
+  title="Donations accepted by UK political parties in 2026"
+  loading="lazy">
+</iframe>
+</div>
+
 ## Reception
 
 Here's a collection of comments on the report.
