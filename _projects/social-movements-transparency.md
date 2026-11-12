@@ -25,7 +25,7 @@ In a three-part series of Think Pieces, we seek to bring some new clarity and in
 
 <iframe
   src="https://tomwalker.fyi/charts/2026-ec-donations-v2.html"
-  style="display: block; width: 100%; height: 85vh; border: none;"
+  style="display:block; width:100%; aspect-ratio:1398 / 1158; border:none;"
   title="Donations accepted by UK political parties in 2026"
   loading="lazy">
 </iframe>
